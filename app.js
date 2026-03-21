@@ -6,8 +6,26 @@ document.addEventListener('DOMContentLoaded', () => {
     const today = new Date().toISOString().split('T')[0];
     document.getElementById('dateFilter').value = today;
     
+    // 实时搜索监听
+    document.getElementById('keywordSearch').addEventListener('input', debounce(filterNews, 300));
+    document.getElementById('dateFilter').addEventListener('change', filterNews);
+    document.getElementById('importanceFilter').addEventListener('change', filterNews);
+    
     loadNews();
 });
+
+// 防抖函数
+function debounce(func, wait) {
+    let timeout;
+    return function executedFunction(...args) {
+        const later = () => {
+            clearTimeout(timeout);
+            func(...args);
+        };
+        clearTimeout(timeout);
+        timeout = setTimeout(later, wait);
+    };
+}
 
 // 加载新闻数据
 async function loadNews() {

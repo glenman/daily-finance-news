@@ -62,7 +62,7 @@ header h1 {
     gap: 10px;
 }
 
-.btn-search, .btn-reset {
+.btn-reset {
     flex: 1;
     padding: 12px;
     border: none;
@@ -70,19 +70,11 @@ header h1 {
     font-size: 16px;
     cursor: pointer;
     transition: transform 0.2s, box-shadow 0.2s;
-}
-
-.btn-search {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
 }
 
-.btn-reset {
-    background: #f0f0f0;
-    color: #333;
-}
-
-.btn-search:hover, .btn-reset:hover {
+.btn-reset:hover {
     transform: translateY(-2px);
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
