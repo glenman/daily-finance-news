@@ -1,52 +1,52 @@
 [
   {
-    "id": 1,
-    "title": "美联储维持利率不变，暗示年内可能降息",
-    "date": "2026-03-21",
-    "source": "Reuters",
-    "url": "https://www.reuters.com",
-    "summary": "美联储在最新政策会议上决定维持基准利率不变，但暗示如果通胀持续降温，年内可能会开始降息。鲍威尔表示将继续关注经济数据。",
-    "importance": "high",
-    "analysis": "这一决定符合市场预期。维持利率不变为经济提供了稳定性，而降息预期则支撑了股市情绪。投资者应关注后续通胀数据和美联储官员讲话。"
-  },
-  {
-    "id": 2,
-    "title": "中国央行降准0.5个百分点，释放长期资金约1万亿元",
-    "date": "2026-03-21",
-    "source": "新华社",
-    "url": "https://www.xinhuanet.com",
-    "summary": "中国人民银行宣布下调金融机构存款准备金率0.5个百分点，预计将释放长期资金约1万亿元人民币，支持实体经济发展。",
-    "importance": "high",
-    "analysis": "此次降准显示了央行稳增长的决心，有助于降低银行资金成本，支持实体经济发展。对A股市场形成利好，银行、地产板块可能受益。"
-  },
-  {
-    "id": 3,
-    "title": "欧洲央行维持三大关键利率不变",
-    "date": "2026-03-21",
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com",
-    "summary": "欧洲央行在最新会议上决定维持主要再融资利率、边际借贷利率和存款机制利率不变，符合市场预期。",
-    "importance": "medium",
-    "analysis": "欧洲央行继续保持观望态度，等待更多通胀数据。市场预期首次降息可能在6月份，欧元汇率短期波动有限。"
-  },
-  {
-    "id": 4,
-    "title": "日本央行结束负利率政策，首次加息",
-    "date": "2026-03-21",
-    "source": "Nikkei",
-    "url": "https://www.nikkei.com",
-    "summary": "日本央行宣布结束长达8年的负利率政策，将基准利率上调至0-0.1%，这是日本17年来首次加息。",
-    "importance": "high",
-    "analysis": "这一历史性决定标志着日本货币政策正常化的开始。日元可能走强，日本股市短期承压，但长期有利于金融体系健康发展。"
-  },
-  {
-    "id": 5,
-    "title": "国际油价小幅上涨，布伦特原油突破85美元",
-    "date": "2026-03-21",
+    "title": "Fed Governor Waller urges caution for now, says rate cuts possible later in the year",
+    "url": "https://www.cnbc.com/2026/03/20/fed-gov-waller-urges-caution-for-now-cuts-possible-later-in-the-year.html",
     "source": "CNBC",
-    "url": "https://www.cnbc.com",
-    "summary": "受OPEC+减产预期和中东局势影响，国际油价持续走高，布伦特原油期货突破85美元/桶。",
-    "importance": "medium",
-    "analysis": "油价上涨可能推高通胀预期，影响全球央行政策。能源股受益，但航空、物流等行业成本压力增加。"
+    "summary": "Waller said in a CNBC interview that recent developments require a more conservative approach.",
+    "date": "2026-03-21",
+    "id": 3,
+    "importance": "high",
+    "analysis": "货币政策变动对全球金融市场有重要影响，投资者应密切关注后续政策走向和相关经济数据。"
+  },
+  {
+    "title": "SEC Commissioner Hester Peirce on ETFs: 'We want to work with people on new products'",
+    "url": "https://www.cnbc.com/2026/03/21/crypto-tokenization-and-etfs-secs-peirce-indicates-openness.html",
+    "source": "CNBC",
+    "summary": "SEC Commissioner Hester Peirce indicates an openness to work with Wall Street on fresh exchange-traded fund products tied to cryptocurrencies and tokenization.",
+    "date": "2026-03-21",
+    "id": 1,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。"
+  },
+  {
+    "title": "Small cap-focused Russell 2000 becomes first U.S. benchmark to enter correction territory",
+    "url": "https://www.cnbc.com/2026/03/20/small-cap-russell-2000-enters-correction-territory.html",
+    "source": "CNBC",
+    "summary": "Small caps are especially sensitive to changes in oil prices and a slowdown in the economic cycle.",
+    "date": "2026-03-21",
+    "id": 2,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。"
+  },
+  {
+    "title": "Copper joins gold in broad commodities sell-off. There's a worrying reason behind it",
+    "url": "https://www.cnbc.com/2026/03/19/copper-joins-gold-in-broad-commodities-sell-off-theres-a-worrying-reason-behind-it.html",
+    "source": "CNBC",
+    "summary": "After major rallies, metals were under pressure on Thursday as rising oil prices increased both inflation and growth worries.",
+    "date": "2026-03-21",
+    "id": 4,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。"
+  },
+  {
+    "title": "OpenClaw demand in China is driving up the price of used MacBooks",
+    "url": "https://www.cnbc.com/2026/03/19/openclaw-demand-in-china-is-driving-up-the-price-of-secondhand-macbooks.html",
+    "source": "CNBC",
+    "summary": "People in China are rushing to buy preowned computers to try OpenClaw with demand for MacBooks particularly high, according to one reseller.",
+    "date": "2026-03-21",
+    "id": 5,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。"
   }
 ]
