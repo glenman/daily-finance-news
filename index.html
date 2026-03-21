@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>每日财经新闻概览</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>📰 每日财经新闻概览</h1>
+        <p class="subtitle">国际 & 国内重要财经资讯</p>
+    </header>
+
+    <div class="search-panel">
+        <div class="search-row">
+            <input type="date" id="dateFilter" class="date-input">
+            <input type="text" id="keywordSearch" placeholder="搜索关键词..." class="search-input">
+            <select id="importanceFilter" class="importance-select">
+                <option value="">全部重要程度</option>
+                <option value="high">🔴 高</option>
+                <option value="medium">🟡 中</option>
+                <option value="low">🟢 低</option>
+            </select>
+        </div>
+        <div class="button-row">
+            <button onclick="filterNews()" class="btn-search">🔍 搜索</button>
+            <button onclick="resetFilters()" class="btn-reset">🔄 重置</button>
+        </div>
+    </div>
+
+    <div class="stats" id="stats"></div>
+
+    <main id="newsContainer"></main>
+
+    <div id="loading" class="loading">加载中...</div>
+    <div id="noResults" class="no-results" style="display:none;">暂无符合条件的新闻</div>
+
+    <footer>
+        <p>数据每日 06:00 (北京时间) 自动更新 | <a href="https://github.com/glenman/daily-finance-news" target="_blank">GitHub</a></p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
