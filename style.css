@@ -31,52 +31,58 @@ header h1 {
 
 .search-panel {
     background: white;
-    border-radius: 12px;
-    padding: 15px;
+    border-radius: 16px;
+    padding: 20px;
     margin-bottom: 15px;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
 }
 
 .search-row {
     display: flex;
     flex-direction: column;
-    gap: 10px;
-    margin-bottom: 10px;
+    gap: 12px;
+    margin-bottom: 12px;
 }
 
-.date-input, .search-input, .importance-select {
-    padding: 12px;
-    border: 2px solid #e0e0e0;
-    border-radius: 8px;
-    font-size: 16px;
-    width: 100%;
+.search-input {
+    background: #f8f9fa url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20' viewBox='0 0 24 24' fill='none' stroke='%23667eea' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='11' cy='11' r='8'%3E%3C/circle%3E%3Cline x1='21' y1='21' x2='16.65' y2='16.65'%3E%3C/line%3E%3C/svg%3E") no-repeat 12px center;
+    padding-left: 44px !important;
+    border-radius: 25px !important;
 }
 
-.date-input:focus, .search-input:focus, .importance-select:focus {
-    border-color: #667eea;
-    outline: none;
+.date-input, .importance-select {
+    background: #f8f9fa;
+    border-radius: 12px;
+    border: none;
+    padding: 14px 16px;
 }
 
 .button-row {
     display: flex;
     gap: 10px;
+    margin-top: 8px;
 }
 
 .btn-reset {
-    flex: 1;
-    padding: 12px;
+    width: 100%;
+    padding: 14px;
     border: none;
-    border-radius: 8px;
+    border-radius: 12px;
     font-size: 16px;
     cursor: pointer;
-    transition: transform 0.2s, box-shadow 0.2s;
+    transition: all 0.3s ease;
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
+    font-weight: 500;
 }
 
 .btn-reset:hover {
     transform: translateY(-2px);
-    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4);
+}
+
+.btn-reset:active {
+    transform: translateY(0);
 }
 
 .stats {
@@ -215,34 +221,37 @@ footer a {
 /* 桌面端适配 */
 @media (min-width: 768px) {
     body {
-        padding: 20px;
+        padding: 30px 20px;
+    }
+
+    header h1 {
+        font-size: 2.2em;
+    }
+
+    .search-panel {
+        padding: 25px 30px;
     }
 
     .search-row {
         flex-direction: row;
     }
 
-    .date-input {
+    .date-input, .importance-select {
         width: 180px;
         flex-shrink: 0;
     }
 
-    .importance-select {
-        width: 150px;
-        flex-shrink: 0;
-    }
-
     main {
-        max-width: 800px;
+        max-width: 900px;
         margin: 0 auto;
     }
 
     .news-card {
-        padding: 20px;
+        padding: 25px;
     }
 
     .news-title {
-        font-size: 1.2em;
+        font-size: 1.25em;
     }
 }
 
