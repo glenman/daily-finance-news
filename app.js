@@ -139,8 +139,11 @@ function displayNews(news) {
                 <span class="news-date">${formatDate(item.date)}</span>
             </div>
             <h2 class="news-title">${escapeHtml(item.title)}</h2>
-            <div class="news-source">来源: <a href="${item.url}" target="_blank" rel="noopener">${escapeHtml(item.source)}</a></div>
+            ${item.title_en ? `<div class="news-title-en" style="color: #666; font-size: 0.9em; margin-top: 5px;">${escapeHtml(item.title_en)}</div>` : ''}
+            <div class="news-source">来源: ${item.url ? `<a href="${item.url}" target="_blank" rel="noopener">${escapeHtml(item.source)}</a>` : escapeHtml(item.source)}</div>
             <div class="news-summary">${escapeHtml(item.summary)}</div>
+            ${item.summary_en ? `<div class="news-summary-en" style="color: #888; font-size: 0.85em; margin-top: 10px; padding: 10px; background: #f5f5f5; border-radius: 4px;">${escapeHtml(item.summary_en)}</div>` : ''}
+            ${item.tags ? `<div class="news-tags" style="margin-top: 10px;">${item.tags.map(tag => `<span style="display: inline-block; background: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 12px; font-size: 0.8em; margin-right: 5px;">${escapeHtml(tag)}</span>`).join('')}</div>` : ''}
             <div class="news-analysis">
                 <div class="analysis-label">📊 综述分析</div>
                 ${escapeHtml(item.analysis)}
