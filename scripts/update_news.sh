@@ -10,6 +10,11 @@ cd "$(dirname "$0")/.."
 echo "🦞 小龙虾开始每日新闻更新..."
 echo "📅 当前时间: $(date '+%Y-%m-%d %H:%M:%S')"
 
+# 检查是否设置了OpenAI API Key
+if [ -z "$OPENAI_API_KEY" ]; then
+    echo "⚠️  警告: OPENAI_API_KEY 未设置，将跳过英文新闻翻译"
+fi
+
 # 运行Python脚本生成新闻
 echo "📝 生成中文新闻..."
 python3 scripts/generate_chinese_news.py

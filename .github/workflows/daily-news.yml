@@ -31,6 +31,8 @@ jobs:
       
       - name: Generate Chinese news
         run: python scripts/generate_chinese_news.py
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       
       - name: Commit and push changes
         run: |

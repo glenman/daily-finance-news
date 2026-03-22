@@ -5,6 +5,7 @@
 """
 
 import json
+import os
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 import feedparser
@@ -13,6 +14,10 @@ from bs4 import BeautifulSoup
 
 # 使用北京时间 (UTC+8)
 BEIJING_TZ = timezone(timedelta(hours=8))
+
+# OpenAI API配置
+OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
+OPENAI_API_URL = "https://api.openai.com/v1/chat/completions"
 
 # 国际新闻源配置（RSS feeds）
 INTERNATIONAL_SOURCES = {
@@ -40,25 +45,58 @@ INTERNATIONAL_SOURCES = {
 
 # 国内新闻源配置
 CHINESE_SOURCES = {
-    "同花顺": {
-        "url": "https://feedx.net/rss/10jqka.xml",
-        "priority": 1
-    },
     "雪球": {
         "url": "https://xueqiu.com/hots/topic/rss",
+        "priority": 1
+    },
+    "IT之家": {
+        "url": "https://www.ithome.com/rss/",
         "priority": 2
     },
-    "搜狐财经": {
-        "url": "https://feedx.net/rss/sohu/finance.xml",
+    "少数派": {
+        "url": "https://sspai.com/feed",
         "priority": 3
     },
-    "和讯网": {
-        "url": "https://feedx.net/rss/hexun.xml",
+    "知乎日报": {
+        "url": "https://daily.zhihu.com/feed",
         "priority": 4
     }
 }
 
-def fetch_rss_news(url, source_name, source_name_cn, max_items=4):
+def translate_text(text, context="news"):
+    """使用OpenAI API翻译英文到中文"""
+    if not OPENAI_API_KEY or not text:
+        return text
+    
+    try:
+        headers = {
+            "Authorization": f"Bearer {OPENAI_API_KEY}",
+            "Content-Type": "application/json"
+        }
+        
+        prompt = f"请将以下英文{'新闻标题' if context == 'title' else '新闻摘要'}翻译成简洁流畅的中文，保持专业性和准确性，不要添加任何解释：\n\n{text}"
+        
+        data = {
+            "model": "gpt-3.5-turbo",
+            "messages": [
+                {"role": "system", "content": "你是一个专业的财经新闻翻译，擅长将英文财经新闻翻译成通俗易懂的中文。只返回翻译结果，不要添加任何解释或标注。"},
+                {"role": "user", "content": prompt}
+            ],
+            "temperature": 0.3,
+            "max_tokens": 500 if context == "summary" else 200
+        }
+        
+        response = requests.post(OPENAI_API_URL, headers=headers, json=data, timeout=30)
+        response.raise_for_status()
+        
+        result = response.json()
+        translation = result["choices"][0]["message"]["content"].strip()
+        return translation
+    except Exception as e:
+        print(f"    ⚠️  翻译失败: {str(e)[:50]}")
+        return text
+
+def fetch_rss_news(url, source_name, source_name_cn, max_items=4, needs_translation=False):
     """从RSS源获取新闻"""
     news_items = []
     try:
@@ -74,14 +112,23 @@ def fetch_rss_news(url, source_name, source_name_cn, max_items=4):
                 soup = BeautifulSoup(summary, 'html.parser')
                 summary = soup.get_text()[:300]
             
+            # 翻译英文内容
+            title_cn = None
+            summary_cn = None
+            
+            if needs_translation and OPENAI_API_KEY:
+                print(f"    🔄 正在翻译: {title[:50]}...")
+                title_cn = translate_text(title, "title")
+                summary_cn = translate_text(summary, "summary")
+            
             news_items.append({
-                "title": title,
-                "title_en": title if source_name in INTERNATIONAL_SOURCES else None,
+                "title": title_cn if title_cn else title,
+                "title_en": title if needs_translation else None,
                 "url": link,
                 "source": source_name_cn if source_name_cn else source_name,
-                "source_en": source_name,
-                "summary": summary,
-                "summary_en": summary if source_name in INTERNATIONAL_SOURCES else None,
+                "source_en": source_name if needs_translation else None,
+                "summary": summary_cn if summary_cn else summary,
+                "summary_en": summary if needs_translation else None,
                 "date": datetime.now(BEIJING_TZ).strftime("%Y-%m-%d"),
             })
             
@@ -175,7 +222,8 @@ def generate_chinese_news():
             config["url"], 
             source_name, 
             config["name_cn"],
-            max_items=4
+            max_items=4,
+            needs_translation=True  # 国际新闻需要翻译
         )
         for item in items:
             item["id"] = news_id
@@ -192,7 +240,8 @@ def generate_chinese_news():
             config["url"], 
             source_name, 
             None,
-            max_items=4
+            max_items=4,
+            needs_translation=False  # 国内新闻不需要翻译
         )
         for item in items:
             item["id"] = news_id
