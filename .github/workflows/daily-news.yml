@@ -29,10 +29,8 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 feedparser
       
-      - name: Fetch news
-        run: python scripts/fetch_news.py
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      - name: Generate Chinese news
+        run: python scripts/generate_chinese_news.py
       
       - name: Commit and push changes
         run: |
