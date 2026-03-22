@@ -1,50 +1,323 @@
 [
   {
-    "id": 1,
-    "title": "美联储官员暗示今年可能降息，市场情绪回暖",
+    "title": "Fed Governor Waller urges caution for now, says rate cuts possible later in the year",
     "title_en": "Fed Governor Waller urges caution for now, says rate cuts possible later in the year",
-    "source": "CNBC",
-    "date": "2026-03-22",
-    "importance": "high",
-    "summary": "美联储理事沃勒在接受CNBC采访时表示，虽然近期经济形势需要更谨慎的态度，但今年晚些时候仍有可能降息。市场将此解读为鸽派信号。",
+    "url": "https://www.cnbc.com/2026/03/20/fed-gov-waller-urges-caution-for-now-cuts-possible-later-in-the-year.html",
+    "source": "美国消费者新闻与商业频道",
+    "source_en": "CNBC",
+    "summary": "Waller said in a CNBC interview that recent developments require a more conservative approach.",
     "summary_en": "Waller said in a CNBC interview that recent developments require a more conservative approach.",
-    "analysis": "货币政策变动对全球金融市场有重要影响，投资者应密切关注后续政策走向和相关经济数据。如果降息预期增强，将利好股市和债市。",
+    "date": "2026-03-22",
+    "id": 1,
+    "importance": "high",
+    "analysis": "货币政策变动对全球金融市场有重要影响，投资者应密切关注后续政策走向和相关经济数据。",
     "tags": [
-      "美联储",
-      "利率",
-      "货币政策"
+      "美联储"
     ]
   },
   {
+    "title": "国内银行在加息周期下的不同处境",
+    "title_en": null,
+    "url": "http://xueqiu.com/7432188731/380484795",
+    "source": "雪球",
+    "source_en": "雪球",
+    "summary": "",
+    "summary_en": null,
+    "date": "2026-03-22",
     "id": 2,
-    "title": "SEC委员表示愿意与华尔街合作开发新的ETF产品",
-    "title_en": "SEC Commissioner Hester Peirce on ETFs: 'We want to work with people on new products'",
-    "source": "CNBC",
-    "date": "2026-03-22",
-    "importance": "medium",
-    "summary": "SEC委员海丝特·皮尔斯表示，愿意与华尔街合作开发与加密货币和代币化相关的新型交易所交易基金产品，这表明监管机构对创新的开放态度。",
-    "summary_en": "SEC Commissioner Hester Peirce indicates an openness to work with Wall Street on fresh exchange-traded fund products tied to cryptocurrencies and tokenization.",
-    "analysis": "监管态度的软化可能推动加密货币ETF的发展，为传统投资者提供更多元化的投资选择。建议关注相关监管政策进展。",
+    "importance": "high",
+    "analysis": "货币政策变动对全球金融市场有重要影响，投资者应密切关注后续政策走向和相关经济数据。",
     "tags": [
-      "SEC",
-      "ETF",
-      "加密货币"
+      "利率",
+      "银行"
     ]
   },
   {
-    "id": 3,
-    "title": "罗素2000指数进入修正区间，小盘股承压",
-    "title_en": "Small cap-focused Russell 2000 becomes first U.S. benchmark to enter correction territory",
-    "source": "CNBC",
+    "title": "SEC Commissioner Hester Peirce on ETFs: 'We want to work with people on new products'",
+    "title_en": "SEC Commissioner Hester Peirce on ETFs: 'We want to work with people on new products'",
+    "url": "https://www.cnbc.com/2026/03/21/crypto-tokenization-and-etfs-secs-peirce-indicates-openness.html",
+    "source": "美国消费者新闻与商业频道",
+    "source_en": "CNBC",
+    "summary": "SEC Commissioner Hester Peirce indicates an openness to work with Wall Street on fresh exchange-traded fund products tied to cryptocurrencies and tokenization.",
+    "summary_en": "SEC Commissioner Hester Peirce indicates an openness to work with Wall Street on fresh exchange-traded fund products tied to cryptocurrencies and tokenization.",
     "date": "2026-03-22",
-    "importance": "medium",
-    "summary": "罗素2000指数成为2026年首个进入修正区间（较历史高点下跌10%）的美国主要基准指数。小盘股对油价变化和经济周期放缓特别敏感。",
-    "summary_en": "Small caps are especially sensitive to changes in oil prices and a slowdown in the economic cycle.",
-    "analysis": "小盘股的疲软可能预示着更广泛的市场调整。投资者应关注经济数据和企业盈利，评估是否需要调整投资组合配置。",
+    "id": 3,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
     "tags": [
-      "股市",
-      "小盘股",
-      "市场调整"
+      "财经"
+    ]
+  },
+  {
+    "title": "Small cap-focused Russell 2000 becomes first U.S. benchmark to enter correction territory",
+    "title_en": "Small cap-focused Russell 2000 becomes first U.S. benchmark to enter correction territory",
+    "url": "https://www.cnbc.com/2026/03/20/small-cap-russell-2000-enters-correction-territory.html",
+    "source": "美国消费者新闻与商业频道",
+    "source_en": "CNBC",
+    "summary": "Small caps are especially sensitive to changes in oil prices and a slowdown in the economic cycle.",
+    "summary_en": "Small caps are especially sensitive to changes in oil prices and a slowdown in the economic cycle.",
+    "date": "2026-03-22",
+    "id": 4,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Copper joins gold in broad commodities sell-off. There's a worrying reason behind it",
+    "title_en": "Copper joins gold in broad commodities sell-off. There's a worrying reason behind it",
+    "url": "https://www.cnbc.com/2026/03/19/copper-joins-gold-in-broad-commodities-sell-off-theres-a-worrying-reason-behind-it.html",
+    "source": "美国消费者新闻与商业频道",
+    "source_en": "CNBC",
+    "summary": "After major rallies, metals were under pressure on Thursday as rising oil prices increased both inflation and growth worries.",
+    "summary_en": "After major rallies, metals were under pressure on Thursday as rising oil prices increased both inflation and growth worries.",
+    "date": "2026-03-22",
+    "id": 5,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+    "title_en": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+    "url": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+    "source": "华尔街日报",
+    "source_en": "WSJ",
+    "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+    "summary_en": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+    "date": "2026-03-22",
+    "id": 6,
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "Comex Gold, Silver Settle Lower",
+    "title_en": "Comex Gold, Silver Settle Lower",
+    "url": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
+    "source": "华尔街日报",
+    "source_en": "WSJ",
+    "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+    "summary_en": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+    "date": "2026-03-22",
+    "id": 7,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "DeepSeek Won't Sink U.S. AI Titans",
+    "title_en": "DeepSeek Won't Sink U.S. AI Titans",
+    "url": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+    "source": "华尔街日报",
+    "source_en": "WSJ",
+    "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+    "summary_en": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+    "date": "2026-03-22",
+    "id": 8,
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "Financial Services Roundup: Market Talk",
+    "title_en": "Financial Services Roundup: Market Talk",
+    "url": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
+    "source": "华尔街日报",
+    "source_en": "WSJ",
+    "summary": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+    "summary_en": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+    "date": "2026-03-22",
+    "id": 9,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "‘I’m completely gobsmacked’: My elderly brother has a reverse mortgage — yet he still ran out of money. Do I help?",
+    "title_en": "‘I’m completely gobsmacked’: My elderly brother has a reverse mortgage — yet he still ran out of money. Do I help?",
+    "url": "https://www.marketwatch.com/story/im-completely-gobsmacked-my-elderly-brother-has-a-reverse-mortgage-but-has-run-out-of-money-do-i-help-2185859c?mod=mw_rss_topstories",
+    "source": "市场观察",
+    "source_en": "MarketWatch",
+    "summary": "“My husband and I are both retired and have saved for years — we simply can’t afford to take on his financial situation.”",
+    "summary_en": "“My husband and I are both retired and have saved for years — we simply can’t afford to take on his financial situation.”",
+    "date": "2026-03-22",
+    "id": 10,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "‘The money is tax-free’: I’m 76 and won $50,000 in a settlement related to cancer from nuclear waste. What should I do with it?",
+    "title_en": "‘The money is tax-free’: I’m 76 and won $50,000 in a settlement related to cancer from nuclear waste. What should I do with it?",
+    "url": "https://www.marketwatch.com/story/the-money-is-tax-free-im-76-and-won-50-000-in-a-settlement-related-to-cancer-from-nuclear-waste-what-should-i-do-with-it-5549449e?mod=mw_rss_topstories",
+    "source": "市场观察",
+    "source_en": "MarketWatch",
+    "summary": "“The money is tax-free and does not affect our income, which comes from investments and Social Security.”",
+    "summary_en": "“The money is tax-free and does not affect our income, which comes from investments and Social Security.”",
+    "date": "2026-03-22",
+    "id": 11,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "History says these 2 overlooked asset classes are the only real shield against 1970s-style stagflation",
+    "title_en": "History says these 2 overlooked asset classes are the only real shield against 1970s-style stagflation",
+    "url": "https://www.marketwatch.com/story/history-says-these-2-overlooked-asset-classes-are-the-only-real-shield-against-1970s-style-stagflation-727af5de?mod=mw_rss_topstories",
+    "source": "市场观察",
+    "source_en": "MarketWatch",
+    "summary": "Wall Street fears higher prices and slower growth will sink all stocks — but small-caps and housing hold their own.",
+    "summary_en": "Wall Street fears higher prices and slower growth will sink all stocks — but small-caps and housing hold their own.",
+    "date": "2026-03-22",
+    "id": 12,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "The stock market actually doesn’t care as much about oil prices as you think",
+    "title_en": "The stock market actually doesn’t care as much about oil prices as you think",
+    "url": "https://www.marketwatch.com/story/the-stock-market-actually-doesnt-care-as-much-about-oil-prices-as-you-think-ead59ede?mod=mw_rss_topstories",
+    "source": "市场观察",
+    "source_en": "MarketWatch",
+    "summary": "Predicting the S&P 500’s direction based on oil moves is an empty bet.",
+    "summary_en": "Predicting the S&P 500’s direction based on oil moves is an empty bet.",
+    "date": "2026-03-22",
+    "id": 13,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Is Apple Stock Going to $500? Here's What Has to Happen.",
+    "title_en": "Is Apple Stock Going to $500? Here's What Has to Happen.",
+    "url": "https://www.fool.com/investing/2026/03/21/apple-stock-going-to-500-what-has-to-happen/?.tsrc=rss",
+    "source": "雅虎财经",
+    "source_en": "YahooFinance",
+    "summary": "After an impressive 953% trailing-10-year total return, investors are ready to tackle the next milestone.",
+    "summary_en": "After an impressive 953% trailing-10-year total return, investors are ready to tackle the next milestone.",
+    "date": "2026-03-22",
+    "id": 14,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Nvidia’s headquarters: An ode to space and 3D rendering",
+    "title_en": "Nvidia’s headquarters: An ode to space and 3D rendering",
+    "url": "https://www.thestreet.com/technology/nvidia-headquarters?.tsrc=rss",
+    "source": "雅虎财经",
+    "source_en": "YahooFinance",
+    "summary": "Nvidia is the world’s largest publicly traded company. As such, it boasts state-of-the-art, futuristic office space that highlights its status as a Silicon Valley tech giant. While Apple has a ring-shaped headquarters, known as Apple Park, Nvidia’s headquarters are polygonal in shape, which ...",
+    "summary_en": "Nvidia is the world’s largest publicly traded company. As such, it boasts state-of-the-art, futuristic office space that highlights its status as a Silicon Valley tech giant. While Apple has a ring-shaped headquarters, known as Apple Park, Nvidia’s headquarters are polygonal in shape, which ...",
+    "date": "2026-03-22",
+    "id": 15,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "How Apple Is Winning China's Brutal Smartphone Price War",
+    "title_en": "How Apple Is Winning China's Brutal Smartphone Price War",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/apple-winning-chinas-brutal-smartphone-143107839.html?.tsrc=rss",
+    "source": "雅虎财经",
+    "source_en": "YahooFinance",
+    "summary": "China's smartphone sales fell 4% year over year in the first nine weeks of 2026, according to Counterpoint Research's China Weekly Smartphone Sell-Out Tracker. The decline reflects soft consumer demand and underwhelming Lunar New Year promotions. Government subsidies introduced early in the year hav",
+    "summary_en": "China's smartphone sales fell 4% year over year in the first nine weeks of 2026, according to Counterpoint Research's China Weekly Smartphone Sell-Out Tracker. The decline reflects soft consumer demand and underwhelming Lunar New Year promotions. Government subsidies introduced early in the year hav",
+    "date": "2026-03-22",
+    "id": 16,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Apple App Rules On AI Coding And China Scrutiny Shape Investor Focus",
+    "title_en": "Apple App Rules On AI Coding And China Scrutiny Shape Investor Focus",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/apple-app-rules-ai-coding-010635727.html?.tsrc=rss",
+    "source": "雅虎财经",
+    "source_en": "YahooFinance",
+    "summary": "Apple is reportedly blocking updates to certain AI powered vibe coding apps, citing App Store policy violations. The move raises questions about how Apple applies its rules to third party tools that touch software development and app distribution. At the same time, Apple is under increased regulator",
+    "summary_en": "Apple is reportedly blocking updates to certain AI powered vibe coding apps, citing App Store policy violations. The move raises questions about how Apple applies its rules to third party tools that touch software development and app distribution. At the same time, Apple is under increased regulator",
+    "date": "2026-03-22",
+    "id": 17,
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "生猪产能调控力度加强",
+    "title_en": null,
+    "url": "http://xueqiu.com/1632625377/380486620",
+    "source": "雪球",
+    "source_en": "雪球",
+    "summary": "",
+    "summary_en": null,
+    "date": "2026-03-22",
+    "id": 18,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "最近下跌的思考",
+    "title_en": null,
+    "url": "http://xueqiu.com/1515879647/380479677",
+    "source": "雪球",
+    "source_en": "雪球",
+    "summary": "",
+    "summary_en": null,
+    "date": "2026-03-22",
+    "id": 19,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "谈腾讯，海油，陕煤，青岛港",
+    "title_en": null,
+    "url": "http://xueqiu.com/7123126150/380472742",
+    "source": "雪球",
+    "source_en": "雪球",
+    "summary": "",
+    "summary_en": null,
+    "date": "2026-03-22",
+    "id": 20,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
     ]
   }
 ]
