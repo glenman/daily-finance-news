@@ -1,122 +1,451 @@
 [
   {
+    "title": "Fed Governor Waller urges caution for now, says rate cuts possible later in the year",
+    "title_en": "Fed Governor Waller urges caution for now, says rate cuts possible later in the year",
+    "url": "https://www.cnbc.com/2026/03/20/fed-gov-waller-urges-caution-for-now-cuts-possible-later-in-the-year.html",
+    "source": "美国消费者新闻与商业频道",
+    "source_en": "CNBC",
+    "summary": "Waller said in a CNBC interview that recent developments require a more conservative approach.",
+    "summary_en": "Waller said in a CNBC interview that recent developments require a more conservative approach.",
+    "date": "2026-03-23",
     "id": 1,
-    "title": "特朗普发出48小时最后通牒：威胁摧毁伊朗电厂，霍尔木兹海峡危机升级",
-    "title_en": "Trump threatens attack on Iran power plants if Strait of Hormuz isn't reopened",
-    "url": "https://www.cnbc.com/2026/03/21/iran-targeted-but-did-not-hit-diego-garcia-base-with-missiles-wsj.html",
-    "source": "CNBC",
-    "summary": "美国总统特朗普周六晚发出严厉警告，要求伊朗在48小时内完全重新开放霍尔木兹海峡，否则美国将"摧毁"伊朗的各主要发电厂。伊朗随即回应称，如果美方实施威胁，将攻击美国在中东的能源和海水淡化设施。这是美伊战争进入第四周以来的重大升级，特朗普在发出威胁前仅一天还曾谈及"缩减"军事行动。",
-    "summary_en": "U.S. President Donald Trump late Saturday threatened to 'obliterate' Iran's power plants if Tehran does not fully reopen the Strait of Hormuz within 48 hours, a significant escalation in the war now in its fourth week.",
     "importance": "high",
-    "analysis": "中东局势急剧恶化，霍尔木兹海峡是全球石油运输的咽喉要道，约20%的全球石油供应通过该海峡。若伊朗不妥协，美国采取军事行动将导致油价进一步飙升，可能引发全球能源危机。市场需密切关注48小时期限后的局势发展。",
-    "tags": ["中东局势", "霍尔木兹海峡", "石油", "特朗普", "伊朗"]
+    "analysis": "货币政策变动对全球金融市场有重要影响，投资者应密切关注后续政策走向和相关经济数据。",
+    "tags": [
+      "美联储"
+    ]
   },
   {
+    "title": "2025年腾讯财报三大亮点和一大隐忧",
+    "title_en": null,
+    "url": "http://xueqiu.com/7787902980/380546381",
+    "source": "雪球",
+    "source_en": null,
+    "summary": "",
+    "summary_en": null,
+    "date": "2026-03-23",
     "id": 2,
-    "title": "油价创近四年新高，布伦特原油突破112美元",
-    "title_en": "Oil prices are set to rise further as war in the Middle East escalates",
-    "url": "https://www.cnbc.com/2026/03/22/oil-prices-are-set-to-rise-further-as-war-in-the-middle-east-escalates.html",
-    "source": "CNBC",
-    "summary": "国际油价周五收盘创下近四年新高，布伦特原油期货收于每桶112.19美元，上涨3.26%；美国WTI原油收于98.32美元，上涨2.27%。分析师警告，特朗普对伊朗的48小时最后通牒可能推动油价在周一进一步上涨。战争爆发22天以来，霍尔木兹海峡关闭已导致全球损失约4.4亿桶原油供应。",
-    "summary_en": "Oil prices closed at their highest in nearly four years on Friday, with Brent crude at $112.19 a barrel. Analysts warned prices could spike further on Monday after Trump's 48-hour ultimatum to Iran.",
-    "importance": "high",
-    "analysis": "油价持续走高将对全球通胀产生连锁反应，推高燃料、物流和制造业成本。国际能源署表示，恢复中东原油供应可能需要长达6个月。若冲突继续升级，布伦特原油可能突破130美元/桶。投资者应关注能源板块机会和通胀对冲策略。",
-    "tags": ["原油", "油价", "布伦特", "能源", "通胀"]
+    "importance": "medium",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
   },
   {
+    "title": "从 3 亿美元降至 1.875 亿美元，Anthropic 版权案律师费用大幅下调",
+    "title_en": null,
+    "url": "https://www.ithome.com/0/931/554.htm",
+    "source": "IT之家",
+    "source_en": null,
+    "summary": "IT之家 3 月 22 日消息，据路透社报道，在与人工智能公司 Anthropic 达成的一项里程碑式的 15 亿美元（IT之家注：现汇率约合 103.49 亿元人民币）版权和解案中，代表作家与出版商的律师团队，已将本案的律师费申请额下调了数亿美元。当地时间周四，Susman Godfrey 与 Lieff Cabraser 律师事务所向旧金山联邦法院提出申请，要求获得和解基金的 12.5%，即 1.875 亿美元（现汇率约合 12.94 亿元人民币）作为律师费。此前，Anthropic 公司及负责本案的两名法官均提出反对，认为他们索要的费用过高，且计划与另外三家并未被指定代表整个集体诉讼方的",
+    "summary_en": null,
+    "date": "2026-03-23",
     "id": 3,
-    "title": "伊朗以色列互袭核设施附近目标，冲突进入危险新阶段",
-    "title_en": "Trump threatens attack on Iran power plants if Strait of Hormuz isn't reopened",
-    "url": "https://www.cnbc.com/2026/03/21/iran-targeted-but-did-not-hit-diego-garcia-base-with-missiles-wsj.html",
-    "source": "CNBC",
-    "summary": "伊朗导弹袭击了以色列迪莫纳核研究中心附近的城市，造成数十人受伤，这是战争爆发以来以色列核设施首次成为目标。以色列称其防空系统未能拦截击中南部城市迪莫纳和阿拉德的导弹。此前有报道称美以联军攻击了伊朗纳坦兹核浓缩设施，国际原子能机构确认未检测到异常辐射水平。",
-    "summary_en": "Iran struck two communities near Israel's main nuclear research site, marking the first time in the war that Israel's nuclear center was targeted. Dozens were injured as Israeli defenses failed to intercept missiles.",
-    "importance": "high",
-    "analysis": "核设施成为攻击目标标志着冲突进入极其危险的阶段。若任何核设施遭到实质性破坏，可能引发放射性泄漏和人道主义灾难。双方互袭核设施附近目标表明冲突正在升级为全面战争，区域稳定面临严峻挑战。",
-    "tags": ["伊朗", "以色列", "核设施", "中东冲突", "导弹袭击"]
+    "importance": "medium",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "汇率",
+      "科技"
+    ]
   },
   {
+    "title": "SEC Commissioner Hester Peirce on ETFs: 'We want to work with people on new products'",
+    "title_en": "SEC Commissioner Hester Peirce on ETFs: 'We want to work with people on new products'",
+    "url": "https://www.cnbc.com/2026/03/21/crypto-tokenization-and-etfs-secs-peirce-indicates-openness.html",
+    "source": "美国消费者新闻与商业频道",
+    "source_en": "CNBC",
+    "summary": "SEC Commissioner Hester Peirce indicates an openness to work with Wall Street on fresh exchange-traded fund products tied to cryptocurrencies and tokenization.",
+    "summary_en": "SEC Commissioner Hester Peirce indicates an openness to work with Wall Street on fresh exchange-traded fund products tied to cryptocurrencies and tokenization.",
+    "date": "2026-03-23",
     "id": 4,
-    "title": "OpenAI IPO前夕调整战略：从自建数据中心转向购买云服务",
-    "title_en": "OpenAI's data center pivot underscores Wall Street spending concerns ahead of IPO",
-    "url": "https://www.cnbc.com/2026/03/22/openai-data-center-pivot-underscores-wall-street-ipo-concerns.html",
-    "source": "CNBC",
-    "summary": "OpenAI在准备今年IPO之际正在调整基础设施战略，从雄心勃勃的自建数据中心计划转向更多依赖云服务采购。此前公司曾承诺未来八年投入约1.4万亿美元建设AI基础设施，引发市场对其支出可持续性的担忧。OpenAI目前估值730亿美元，正努力向投资者展示更审慎的财务策略。",
-    "summary_en": "OpenAI is tempering expectations and outlining a more measured strategy as it gears up for a potential IPO, targeting roughly $600 billion in total compute spend by 2030 to align with expected revenue growth.",
-    "importance": "high",
-    "analysis": "OpenAI的战略调整反映了市场对AI公司巨额资本支出的担忧。从1.4万亿美元降至6000亿美元的支出目标，显示公司在向更务实的方向转型。对于IPO估值而言，展示可持续的商业模式比激进的扩张计划更重要。投资者应关注其收入增长与资本支出的匹配程度。",
-    "tags": ["OpenAI", "IPO", "AI", "数据中心", "云计算"]
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
   },
   {
+    "title": "Small cap-focused Russell 2000 becomes first U.S. benchmark to enter correction territory",
+    "title_en": "Small cap-focused Russell 2000 becomes first U.S. benchmark to enter correction territory",
+    "url": "https://www.cnbc.com/2026/03/20/small-cap-russell-2000-enters-correction-territory.html",
+    "source": "美国消费者新闻与商业频道",
+    "source_en": "CNBC",
+    "summary": "Small caps are especially sensitive to changes in oil prices and a slowdown in the economic cycle.",
+    "summary_en": "Small caps are especially sensitive to changes in oil prices and a slowdown in the economic cycle.",
+    "date": "2026-03-23",
     "id": 5,
-    "title": "Spotify押注AI功能提升用户粘性，推出ChatGPT集成",
-    "title_en": "Why Spotify AI more than music will be secret to keeping subscribers",
-    "url": "https://www.cnbc.com/2026/03/22/spotify-apple-amazon-streaming-music-ai.html",
-    "source": "CNBC",
-    "summary": "Spotify正在将AI作为保持用户粘性的核心战略。公司最近推出了与ChatGPT的集成功能，用户可以通过自然语言对话获取个性化音乐推荐。Spotify高管表示，AI驱动的发现功能是保持用户参与平台的关键。竞争对手Apple Music和Amazon Music也在开发类似的AI功能。",
-    "summary_en": "Spotify is betting that personalized music and podcast recommendations improved through AI chat will enhance user engagement. The company recently rolled out a ChatGPT integration allowing users to connect accounts directly.",
-    "importance": "medium",
-    "analysis": "音乐流媒体市场内容趋于同质化，AI推荐功能成为差异化竞争的关键。Spotify拥有9000万用户使用其iDJ功能，AI功能的成功将提高用户转换成本，形成护城河。投资者应关注AI功能对用户留存率和订阅增长的贡献。",
-    "tags": ["Spotify", "AI", "流媒体", "ChatGPT", "用户粘性"]
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
   },
   {
+    "title": "Copper joins gold in broad commodities sell-off. There's a worrying reason behind it",
+    "title_en": "Copper joins gold in broad commodities sell-off. There's a worrying reason behind it",
+    "url": "https://www.cnbc.com/2026/03/19/copper-joins-gold-in-broad-commodities-sell-off-theres-a-worrying-reason-behind-it.html",
+    "source": "美国消费者新闻与商业频道",
+    "source_en": "CNBC",
+    "summary": "After major rallies, metals were under pressure on Thursday as rising oil prices increased both inflation and growth worries.",
+    "summary_en": "After major rallies, metals were under pressure on Thursday as rising oil prices increased both inflation and growth worries.",
+    "date": "2026-03-23",
     "id": 6,
-    "title": "巴菲特捍卫"捐赠誓言"：回应彼得·蒂尔等亿万富翁的批评",
-    "title_en": "Buffett defends 'Giving Pledge' against Thiel and 'billionaire backlash'",
-    "url": "https://www.cnbc.com/2026/03/21/buffett-defends-giving-pledge-against-thiel-and-billionaire-backlash.html",
-    "source": "CNBC",
-    "summary": "《纽约时报》报道指出，"捐赠誓言"运动正面临来自亿万富翁群体的"反弹"。彼得·蒂尔私下鼓励约12名签署者取消承诺，称该组织为"与爱泼斯坦有关的虚假婴儿潮一代俱乐部"。巴菲特、比尔·盖茨等人于2010年发起的这项运动已有超过250个家庭签署，但新加入者数量正在放缓。",
-    "summary_en": "The Giving Pledge is facing a growing backlash from billionaires, including a quiet campaign by Peter Thiel to encourage signers to cancel their pledges. Thiel calls it an 'Epstein-adjacent, fake Boomer club.'",
-    "importance": "medium",
-    "analysis": "这一趋势反映了科技亿万富翁群体价值观的转变——从慈善捐赠转向通过商业成功"回馈社会"。对于投资者而言，这可能意味着更多资金将流向风险投资和企业扩张而非慈善事业。巴菲特的品牌形象和伯克希尔的声誉也因此受到一定影响。",
-    "tags": ["巴菲特", "捐赠誓言", "慈善", "彼得·蒂尔", "亿万富翁"]
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
   },
   {
+    "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+    "title_en": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+    "url": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+    "source": "华尔街日报",
+    "source_en": "WSJ",
+    "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+    "summary_en": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+    "date": "2026-03-23",
     "id": 7,
-    "title": "美股逼近修正区，"TACO交易"策略失效",
-    "title_en": "Stocks are teetering on the edge of correction territory. Why the 'TACO trade' could flop.",
-    "url": "https://www.marketwatch.com/story/stocks-are-teetering-on-the-edge-of-correction-territory-why-the-taco-trade-could-flop-e1010039",
-    "source": "MarketWatch",
-    "summary": "美股三大指数正逼近修正区域。"TACO交易"（Trump Always Chickens Out，特朗普总是退缩）策略以往在市场动荡时有效，但面对升级的中东冲突和飙升的油价，这一策略正在失效。标普500指数已从1月高点下跌6.8%，道指下跌9.2%，纳指下跌9.6%。",
-    "summary_en": "With U.S. stocks on the doorstep of correction territory, the 'TACO trade' — where Trump Always Chickens Out when trouble hits markets — has been looking suspect amid the escalating Iran conflict and surging oil prices.",
-    "importance": "high",
-    "analysis": "TACO交易策略的失效表明市场对特朗普在处理国际危机方面的信心正在改变。若中东冲突持续升级，美股可能正式进入修正区间（从高点下跌10%以上）。投资者应考虑增加防御性资产配置，关注能源和军工板块的机会。",
-    "tags": ["美股", "TACO交易", "修正区", "特朗普", "市场策略"]
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
   },
   {
+    "title": "Comex Gold, Silver Settle Lower",
+    "title_en": "Comex Gold, Silver Settle Lower",
+    "url": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
+    "source": "华尔街日报",
+    "source_en": "WSJ",
+    "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+    "summary_en": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+    "date": "2026-03-23",
     "id": 8,
-    "title": "AI时代企业"少花钱多办事"，员工如何借机提升职业发展",
-    "title_en": "Companies are doing more with less in AI era. Workers can take advantage",
-    "url": "https://www.cnbc.com/2026/03/22/companies-ai-work-job-skills.html",
-    "source": "CNBC",
-    "summary": "AI时代正在重塑劳动力市场。企业在紧缩的劳动力市场中寻求通过技术提高生产力，同时员工也在提升技能以适应变化。教育福利公司Guild的CEO表示，企业领导者被要求"少花钱多办事"，这意味着需要每位员工发挥最大潜力。参与培训项目的员工晋升率比其他员工高20%。",
-    "summary_en": "As companies deal with a tight labor market, they're looking to enhance productivity with technology. Workers who take advantage of education programs are promoted at a 20% higher rate than other workers.",
-    "importance": "medium",
-    "analysis": "AI革命正在改变职场规则，终身学习成为保持竞争力的关键。对于个人投资者而言，投资自身技能提升的回报率可能高于金融投资。企业培训和教育科技公司（如Guild）将受益于这一趋势。投资者可关注提供企业培训服务的上市公司。",
-    "tags": ["AI", "职场", "技能提升", "劳动力市场", "培训"]
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
   },
   {
+    "title": "DeepSeek Won't Sink U.S. AI Titans",
+    "title_en": "DeepSeek Won't Sink U.S. AI Titans",
+    "url": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+    "source": "华尔街日报",
+    "source_en": "WSJ",
+    "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+    "summary_en": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+    "date": "2026-03-23",
     "id": 9,
-    "title": "华为今日举行春季全场景新品发布会",
-    "title_en": "Huawei Spring Product Launch Event",
-    "url": "https://www.cls.cn",
-    "source": "财联社",
-    "summary": "华为将于3月23日14:30举行春季全场景新品发布会，预计将发布多款新品。同时，谷歌也将于今日在谷歌营销平台推出Gemini Advantage功能。本周还有博鳌亚洲论坛2026年年会、Arm芯片活动、上海国际半导体展览会等重要活动。",
-    "summary_en": "Huawei will hold its spring all-scenario product launch event at 14:30 on March 23. Other events this week include the Boao Forum, Arm chip event, and Shanghai International Semiconductor Exhibition.",
-    "importance": "medium",
-    "analysis": "华为的新品发布可能带动消费电子和半导体板块的关注度。结合上海国际半导体展览会和Arm活动，本周科技板块可能迎来催化。投资者可关注华为供应链相关标的和半导体设备公司。",
-    "tags": ["华为", "新品发布", "半导体", "消费电子", "科技"]
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
   },
   {
+    "title": "Financial Services Roundup: Market Talk",
+    "title_en": "Financial Services Roundup: Market Talk",
+    "url": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
+    "source": "华尔街日报",
+    "source_en": "WSJ",
+    "summary": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+    "summary_en": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+    "date": "2026-03-23",
     "id": 10,
-    "title": "本周财经日历：博鳌论坛开幕，美国PCE数据将公布",
-    "title_en": "This Week's Calendar: Boao Forum Opens, US PCE Data Release",
-    "url": "https://www.cls.cn",
-    "source": "财联社",
-    "summary": "本周重要财经事件包括：周一华为春季发布会；周二博鳌亚洲论坛开幕、Arm芯片活动；周三上海国际半导体展览会、中国清洁能源博览会、日本央行会议纪要、MLF到期4500亿元；周五全球开发者先锋大会、中国电动汽车百人会论坛。美国2月核心PCE物价指数将于周三公布。",
-    "summary_en": "Key events this week: Monday's Huawei launch, Tuesday's Boao Forum and Arm event, Wednesday's Shanghai Semiconductor Expo and US Core PCE release, Friday's Developer Conference and EV Forum.",
-    "importance": "medium",
-    "analysis": "本周事件密集，美国PCE数据是美联储最关注的通胀指标，将影响市场对降息的预期。博鳌论坛可能释放中国开放政策和经济信号。半导体和新能源板块将受到展会和论坛催化。投资者应关注周三PCE数据对市场的影响。",
-    "tags": ["财经日历", "博鳌论坛", "PCE", "半导体", "新能源"]
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Stocks are teetering on the edge of correction territory. Why the ‘TACO trade’ could flop.",
+    "title_en": "Stocks are teetering on the edge of correction territory. Why the ‘TACO trade’ could flop.",
+    "url": "https://www.marketwatch.com/story/stocks-are-teetering-on-the-edge-of-correction-territory-why-the-taco-trade-could-flop-e1010039?mod=mw_rss_topstories",
+    "source": "市场观察",
+    "source_en": "MarketWatch",
+    "summary": "The once-reliable trade on Wall Street, that President Trump “always chickens out,” could be torpedoed by the Iran conflict.",
+    "summary_en": "The once-reliable trade on Wall Street, that President Trump “always chickens out,” could be torpedoed by the Iran conflict.",
+    "date": "2026-03-23",
+    "id": 11,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Americans are about to get a crash course in the global economy: Higher prices are coming for pineapples, plastic, chocolate and berries",
+    "title_en": "Americans are about to get a crash course in the global economy: Higher prices are coming for pineapples, plastic, chocolate and berries",
+    "url": "https://www.marketwatch.com/story/americans-are-about-to-get-a-crash-course-in-the-global-economy-higher-prices-are-coming-for-pineapples-plastic-chocolate-and-berries-0be67162?mod=mw_rss_topstories",
+    "source": "市场观察",
+    "source_en": "MarketWatch",
+    "summary": "Rising costs for fertilizer, feed, packaging and shipping are going to seep into the prices that people see on grocery shelves, experts say.",
+    "summary_en": "Rising costs for fertilizer, feed, packaging and shipping are going to seep into the prices that people see on grocery shelves, experts say.",
+    "date": "2026-03-23",
+    "id": 12,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Retirees, steel yourselves: Global crises might rattle the markets, but they don’t have to ruin your retirement",
+    "title_en": "Retirees, steel yourselves: Global crises might rattle the markets, but they don’t have to ruin your retirement",
+    "url": "https://www.marketwatch.com/story/retirees-steel-yourselves-global-crises-might-rattle-the-markets-but-they-dont-have-to-ruin-your-retirement-b73fcb7a?mod=mw_rss_topstories",
+    "source": "市场观察",
+    "source_en": "MarketWatch",
+    "summary": "The economic shock from the Iran conflict can take on outsize importance for those close to or in retirement",
+    "summary_en": "The economic shock from the Iran conflict can take on outsize importance for those close to or in retirement",
+    "date": "2026-03-23",
+    "id": 13,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "I opened a 0% credit card to pay $11,000 in vacation debt. What could go wrong? Quite a lot, it seems.",
+    "title_en": "I opened a 0% credit card to pay $11,000 in vacation debt. What could go wrong? Quite a lot, it seems.",
+    "url": "https://www.marketwatch.com/story/i-opened-a-0-credit-card-to-pay-11-000-in-vacation-debt-why-cant-i-get-a-higher-credit-limit-my-debt-utilization-is-only-10-d8746a91?mod=mw_rss_topstories",
+    "source": "市场观察",
+    "source_en": "MarketWatch",
+    "summary": "“We’ve been aggressively paying down our credit cards.”",
+    "summary_en": "“We’ve been aggressively paying down our credit cards.”",
+    "date": "2026-03-23",
+    "id": 14,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Investor Reveals $51 Million Sale of Armstrong Strong as Shares Sink Post-Earnings",
+    "title_en": "Investor Reveals $51 Million Sale of Armstrong Strong as Shares Sink Post-Earnings",
+    "url": "https://www.fool.com/coverage/filings/2026/03/22/investor-reveals-usd51-million-sale-of-armstrong-strong-as-shares-sink-post-earnings/?.tsrc=rss",
+    "source": "雅虎财经",
+    "source_en": "YahooFinance",
+    "summary": "Armstrong World Industries delivers ceiling and wall solutions for commercial and residential construction across North and Latin America.",
+    "summary_en": "Armstrong World Industries delivers ceiling and wall solutions for commercial and residential construction across North and Latin America.",
+    "date": "2026-03-23",
+    "id": 15,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Apple Stock Is Doing Something It Hasn't Done Since 2022. Should You Buy or Run?",
+    "title_en": "Apple Stock Is Doing Something It Hasn't Done Since 2022. Should You Buy or Run?",
+    "url": "https://www.fool.com/investing/2026/03/22/apple-stock-doing-something-not-done-2022-buy/?.tsrc=rss",
+    "source": "雅虎财经",
+    "source_en": "YahooFinance",
+    "summary": "Apple shows a clear pattern over the last two decades.",
+    "summary_en": "Apple shows a clear pattern over the last two decades.",
+    "date": "2026-03-23",
+    "id": 16,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Coinbase Launches 24/7 Stock Trading For Tesla, Apple, Nvidia With 10X Leverage",
+    "title_en": "Coinbase Launches 24/7 Stock Trading For Tesla, Apple, Nvidia With 10X Leverage",
+    "url": "https://finance.yahoo.com/markets/options/articles/coinbase-launches-24-7-stock-163214115.html?.tsrc=rss",
+    "source": "雅虎财经",
+    "source_en": "YahooFinance",
+    "summary": "Coinbase launched stock perpetual futures for eligible non-U.S. users offering 24/7 leveraged synthetic exposure to Tesla , Apple, Nvidia, and other Magnificent 7 stocks with up to 10x leverage. The ‘Everything Exchange’ Expansion Coinbase becomes one of the first major...",
+    "summary_en": "Coinbase launched stock perpetual futures for eligible non-U.S. users offering 24/7 leveraged synthetic exposure to Tesla , Apple, Nvidia, and other Magnificent 7 stocks with up to 10x leverage. The ‘Everything Exchange’ Expansion Coinbase becomes one of the first major...",
+    "date": "2026-03-23",
+    "id": 17,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Big Tech’s Cause for Hope: Link Between Mag 7, S&P 500 Is Broken",
+    "title_en": "Big Tech’s Cause for Hope: Link Between Mag 7, S&P 500 Is Broken",
+    "url": "https://finance.yahoo.com/news/big-tech-cause-hope-between-130007636.html?.tsrc=rss",
+    "source": "雅虎财经",
+    "source_en": "YahooFinance",
+    "summary": "The correlation between an index tracking the so-called Magnificent Seven and the equal-weighted version of the S&P 500, which more accurately reflects the full performance of all the stocks by removing the weighting of the biggest companies, turned negative on Feb. 23, an indication that they were ",
+    "summary_en": "The correlation between an index tracking the so-called Magnificent Seven and the equal-weighted version of the S&P 500, which more accurately reflects the full performance of all the stocks by removing the weighting of the biggest companies, turned negative on Feb. 23, an indication that they were ",
+    "date": "2026-03-23",
+    "id": 18,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "2026-2027年紫金矿业的利润增量在哪里？",
+    "title_en": null,
+    "url": "http://xueqiu.com/3093244593/380544359",
+    "source": "雪球",
+    "source_en": null,
+    "summary": "",
+    "summary_en": null,
+    "date": "2026-03-23",
+    "id": 19,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "本周：牛市还在不在",
+    "title_en": null,
+    "url": "http://xueqiu.com/2874741935/380529729",
+    "source": "雪球",
+    "source_en": null,
+    "summary": "",
+    "summary_en": null,
+    "date": "2026-03-23",
+    "id": 20,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "炒股大忌：别把代码炒成信仰，别把自己困进茧房",
+    "title_en": null,
+    "url": "http://xueqiu.com/5672579962/380566151",
+    "source": "雪球",
+    "source_en": null,
+    "summary": "",
+    "summary_en": null,
+    "date": "2026-03-23",
+    "id": 21,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "终结 LPL 三年无冠，BLG 战队 3:1 G2 斩获《英雄联盟》2026 全球先锋赛冠军",
+    "title_en": null,
+    "url": "https://www.ithome.com/0/931/556.htm",
+    "source": "IT之家",
+    "source_en": null,
+    "summary": "IT之家 3 月 23 日消息，在 3 月 22 日晚的《英雄联盟》2026 全球先锋赛决赛中，BLG 战队 3:1 G2 战队，斩获 2026 全球先锋赛冠军。IT之家注意到，这是时隔 1036 天，LPL 赛区再一次拿到国际赛事的冠军。第一局：G2 1:0 BLG开局 3 分钟，双方在河道混战，Xun 波比拿到一血，Caps 阿萝拉残血操作拿到双杀，G2 打出一换三。10 分钟，皇子抓下，被 Xun 波比及时支援，BLG 打出一换二，随后拿到小龙。15 分钟，双方大龙坑对战，璐璐走位激进，Caps 阿萝拉抓住时机，G2 打出零换二。19 分钟，G2 在中路抓死纳尔，随后放峡谷先锋连撞中路两",
+    "summary_en": null,
+    "date": "2026-03-23",
+    "id": 22,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "雷神加速器就服务异常致歉：提供 50 小时可暂停时长补偿",
+    "title_en": null,
+    "url": "https://www.ithome.com/0/931/555.htm",
+    "source": "IT之家",
+    "source_en": null,
+    "summary": "IT之家 3 月 22 日消息，雷神加速器今日发布“致歉与补偿公告”。针对昨日因恶意网络攻击导致的服务异常，团队向所有受影响的用户致歉。公告称，截至昨日 23:20 全平台服务已全面恢复，受影响用户的账号资产、个人数据全程安全无风险，未发生任何泄露情况。影响范围：正在登录以及部分加速的用户。为表歉意，雷神为用户准备了 50 小时可暂停时长的专属补偿。所有补偿将于公告发布后 24 小时内发布到各位玩家的站内信，各位玩家注意查收及手动领取到账。据IT之家此前报道，雷神加速器昨晚发布“关于雷神加速器遭受恶意网络攻击的紧急说明”。自 3 月 21 日 21:00 起，雷神加速器监测到大规模、持续性的非",
+    "summary_en": null,
+    "date": "2026-03-23",
+    "id": 23,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "小米汽车回应新一代 SU7“底盘软”：可切换到运动模式，或通过自定义驾驶模式“特调”",
+    "title_en": null,
+    "url": "https://www.ithome.com/0/931/553.htm",
+    "source": "IT之家",
+    "source_en": null,
+    "summary": "IT之家 3 月 22 日消息，小米汽车今日发布答网友问（第 218 集），回答了“新一代 SU7 的实际续航表现怎么样？”“感觉新一代 SU7 开起来变得比第一代 SU7‘底盘软’，是调校风格变了吗？”等问题。IT之家整理如下：1、新一代 SU7 的实际续航表现怎么样？近日，新一代 SU7 在多家专业媒体的续航测试中表现出色，多家专业媒体的续航实测结果，均体现了新一代 SU7 Pro 出色的续航能力，相信这样的续航表现能很好地满足大家的用车需求；汽车之家实测新一代 SU7 Pro 搭载 3 名乘客载重并以模拟典型城市路况的方式驾驶，平均时速为 50km/h，测至续航里程为 0 或“--”时结",
+    "summary_en": null,
+    "date": "2026-03-23",
+    "id": 24,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "看见 App Store 生态的更多可能，Tim Cook 会见中国游戏开发者",
+    "title_en": null,
+    "url": "https://sspai.com/post/107642",
+    "source": "少数派",
+    "source_en": null,
+    "summary": "结束了在成都举办的Apple五十周年全球第二站活动之后，TimCook又马不停蹄地来到北京，与多位中国优秀的游戏开发者们会面交流，了解他们的作品及Apple技术对他们的支持。《逃离鸭科夫》是一款由开发 ...查看全文",
+    "summary_en": null,
+    "date": "2026-03-23",
+    "id": 25,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "用十年手机相册，记录颐和园的日夜春秋",
+    "title_en": null,
+    "url": "https://sspai.com/post/107010",
+    "source": "少数派",
+    "source_en": null,
+    "summary": "这些照片代表的生命瞬间，才是我真正的人生。查看全文",
+    "summary_en": null,
+    "date": "2026-03-23",
+    "id": 26,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "App+1｜给「类原生」用户的来电拦截工具：Pixel Telo",
+    "title_en": null,
+    "url": "https://sspai.com/post/107136",
+    "source": "少数派",
+    "source_en": null,
+    "summary": "如果你也是国内的 Pixel 或类原生系统用户，正被骚扰电话困扰，不妨试试这款向经典致敬、又融入了现代设计的工具。查看全文",
+    "summary_en": null,
+    "date": "2026-03-23",
+    "id": 27,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "本周看什么 | 最近值得一看的 12 部作品",
+    "title_en": null,
+    "url": "https://sspai.com/post/107582",
+    "source": "少数派",
+    "source_en": null,
+    "summary": "📅本周新预告《只狼：永不言败》新预告3月17日，动画电影《只狼：永不言败》发布了新预告，将于2026年在日本上映，并上线Crunchyroll。本作改编自游戏《只狼：影逝二度》，沓名健一执导，佐藤卓哉 ...查看全文",
+    "summary_en": null,
+    "date": "2026-03-23",
+    "id": 28,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
   }
 ]
