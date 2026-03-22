@@ -15,6 +15,21 @@ from bs4 import BeautifulSoup
 # 使用北京时间 (UTC+8)
 BEIJING_TZ = timezone(timedelta(hours=8))
 
+# 加载.env配置文件
+def load_env():
+    """加载.env文件中的环境变量"""
+    env_file = Path(__file__).parent.parent / ".env"
+    if env_file.exists():
+        with open(env_file, "r") as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith("#") and "=" in line:
+                    key, value = line.split("=", 1)
+                    os.environ[key.strip()] = value.strip()
+
+# 加载环境变量
+load_env()
+
 # OpenAI API配置
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 OPENAI_API_URL = "https://api.openai.com/v1/chat/completions"

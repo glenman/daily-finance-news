@@ -31,8 +31,8 @@ jobs:
       
       - name: Generate Chinese news
         run: python scripts/generate_chinese_news.py
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        # 注意：GitHub Action仅作为备用，主要使用本地定时任务
+        # 本地运行会使用OPENAI_API_KEY进行翻译
       
       - name: Commit and push changes
         run: |
