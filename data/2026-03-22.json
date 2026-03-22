@@ -1,62 +1,50 @@
 [
   {
-    "title": "Fed Governor Waller urges caution for now, says rate cuts possible later in the year",
-    "title_cn": "Fed Governor Waller urges caution for now, says rate cuts possible later in the year",
-    "url": "https://www.cnbc.com/2026/03/20/fed-gov-waller-urges-caution-for-now-cuts-possible-later-in-the-year.html",
-    "source": "CNBC",
-    "summary": "Waller said in a CNBC interview that recent developments require a more conservative approach.",
-    "summary_cn": "Waller said in a CNBC interview that recent developments require a more conservative approach.",
-    "date": "2026-03-22",
-    "id": 3,
-    "importance": "high",
-    "analysis": "货币政策变动对全球金融市场有重要影响，投资者应密切关注后续政策走向和相关经济数据。"
-  },
-  {
-    "title": "SEC Commissioner Hester Peirce on ETFs: 'We want to work with people on new products'",
-    "title_cn": "SEC Commissioner Hester Peirce on ETFs: 'We want to work with people on new products'",
-    "url": "https://www.cnbc.com/2026/03/21/crypto-tokenization-and-etfs-secs-peirce-indicates-openness.html",
-    "source": "CNBC",
-    "summary": "SEC Commissioner Hester Peirce indicates an openness to work with Wall Street on fresh exchange-traded fund products tied to cryptocurrencies and tokenization.",
-    "summary_cn": "SEC Commissioner Hester Peirce indicates an openness to work with Wall Street on fresh exchange-traded fund products tied to cryptocurrencies and tokenization.",
-    "date": "2026-03-22",
     "id": 1,
-    "importance": "low",
-    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。"
+    "title": "美联储官员暗示今年可能降息，市场情绪回暖",
+    "title_en": "Fed Governor Waller urges caution for now, says rate cuts possible later in the year",
+    "source": "CNBC",
+    "date": "2026-03-22",
+    "importance": "high",
+    "summary": "美联储理事沃勒在接受CNBC采访时表示，虽然近期经济形势需要更谨慎的态度，但今年晚些时候仍有可能降息。市场将此解读为鸽派信号。",
+    "summary_en": "Waller said in a CNBC interview that recent developments require a more conservative approach.",
+    "analysis": "货币政策变动对全球金融市场有重要影响，投资者应密切关注后续政策走向和相关经济数据。如果降息预期增强，将利好股市和债市。",
+    "tags": [
+      "美联储",
+      "利率",
+      "货币政策"
+    ]
   },
   {
-    "title": "Small cap-focused Russell 2000 becomes first U.S. benchmark to enter correction territory",
-    "title_cn": "Small cap-focused Russell 2000 becomes first U.S. benchmark to enter correction territory",
-    "url": "https://www.cnbc.com/2026/03/20/small-cap-russell-2000-enters-correction-territory.html",
-    "source": "CNBC",
-    "summary": "Small caps are especially sensitive to changes in oil prices and a slowdown in the economic cycle.",
-    "summary_cn": "Small caps are especially sensitive to changes in oil prices and a slowdown in the economic cycle.",
-    "date": "2026-03-22",
     "id": 2,
-    "importance": "low",
-    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。"
+    "title": "SEC委员表示愿意与华尔街合作开发新的ETF产品",
+    "title_en": "SEC Commissioner Hester Peirce on ETFs: 'We want to work with people on new products'",
+    "source": "CNBC",
+    "date": "2026-03-22",
+    "importance": "medium",
+    "summary": "SEC委员海丝特·皮尔斯表示，愿意与华尔街合作开发与加密货币和代币化相关的新型交易所交易基金产品，这表明监管机构对创新的开放态度。",
+    "summary_en": "SEC Commissioner Hester Peirce indicates an openness to work with Wall Street on fresh exchange-traded fund products tied to cryptocurrencies and tokenization.",
+    "analysis": "监管态度的软化可能推动加密货币ETF的发展，为传统投资者提供更多元化的投资选择。建议关注相关监管政策进展。",
+    "tags": [
+      "SEC",
+      "ETF",
+      "加密货币"
+    ]
   },
   {
-    "title": "Copper joins gold in broad commodities sell-off. There's a worrying reason behind it",
-    "title_cn": "Copper joins gold in broad commodities sell-off. There's a worrying reason behind it",
-    "url": "https://www.cnbc.com/2026/03/19/copper-joins-gold-in-broad-commodities-sell-off-theres-a-worrying-reason-behind-it.html",
+    "id": 3,
+    "title": "罗素2000指数进入修正区间，小盘股承压",
+    "title_en": "Small cap-focused Russell 2000 becomes first U.S. benchmark to enter correction territory",
     "source": "CNBC",
-    "summary": "After major rallies, metals were under pressure on Thursday as rising oil prices increased both inflation and growth worries.",
-    "summary_cn": "After major rallies, metals were under pressure on Thursday as rising oil prices increased both inflation and growth worries.",
     "date": "2026-03-22",
-    "id": 4,
-    "importance": "low",
-    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。"
-  },
-  {
-    "title": "OpenClaw demand in China is driving up the price of used MacBooks",
-    "title_cn": "OpenClaw demand in China is driving up the price of used MacBooks",
-    "url": "https://www.cnbc.com/2026/03/19/openclaw-demand-in-china-is-driving-up-the-price-of-secondhand-macbooks.html",
-    "source": "CNBC",
-    "summary": "People in China are rushing to buy preowned computers to try OpenClaw with demand for MacBooks particularly high, according to one reseller.",
-    "summary_cn": "People in China are rushing to buy preowned computers to try OpenClaw with demand for MacBooks particularly high, according to one reseller.",
-    "date": "2026-03-22",
-    "id": 5,
-    "importance": "low",
-    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。"
+    "importance": "medium",
+    "summary": "罗素2000指数成为2026年首个进入修正区间（较历史高点下跌10%）的美国主要基准指数。小盘股对油价变化和经济周期放缓特别敏感。",
+    "summary_en": "Small caps are especially sensitive to changes in oil prices and a slowdown in the economic cycle.",
+    "analysis": "小盘股的疲软可能预示着更广泛的市场调整。投资者应关注经济数据和企业盈利，评估是否需要调整投资组合配置。",
+    "tags": [
+      "股市",
+      "小盘股",
+      "市场调整"
+    ]
   }
 ]
