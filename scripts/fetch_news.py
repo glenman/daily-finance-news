@@ -6,11 +6,14 @@
 
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 import feedparser
 import requests
 from bs4 import BeautifulSoup
+
+# 使用北京时间 (UTC+8)
+BEIJING_TZ = timezone(timedelta(hours=8))
 
 # 新闻源配置（RSS feeds）
 NEWS_SOURCES = {
@@ -36,7 +39,7 @@ def fetch_rss_news(url, source_name, max_items=5):
                 "url": entry.get("link", ""),
                 "source": source_name,
                 "summary": entry.get("summary", entry.get("description", ""))[:300],
-                "date": datetime.now().strftime("%Y-%m-%d"),
+                "date": datetime.now(BEIJING_TZ).strftime("%Y-%m-%d"),
             })
     except Exception as e:
         print(f"Error fetching from {source_name}: {e}")
@@ -105,7 +108,7 @@ def main():
     all_news.sort(key=lambda x: importance_order.get(x["importance"], 2))
     
     # 保存数据
-    today = datetime.now().strftime("%Y-%m-%d")
+    today = datetime.now(BEIJING_TZ).strftime("%Y-%m-%d")
     data_dir = Path(__file__).parent.parent / "data"
     data_dir.mkdir(exist_ok=True)
     
