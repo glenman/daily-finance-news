@@ -1,451 +1,192 @@
 [
   {
-    "title": "近二十年全球通胀累积涨幅巨大，但原油均价几乎没有上涨，原油为通胀背了多少锅？",
-    "title_en": null,
-    "url": "http://xueqiu.com/4348548174/380989793",
-    "source": "雪球",
-    "source_en": null,
-    "summary": "",
-    "summary_en": null,
-    "date": "2026-03-26",
-    "id": 1,
+    "title": "伊朗外长：无意与美谈判，正在研究特朗普停战提议",
+    "title_en": "Iran has no intention to hold talks with U.S; foreign minister says Trump proposal to end war being reviewed",
+    "url": "https://www.cnbc.com/2026/03/25/iran-war-us-trump.html",
+    "source": "CNBC",
+    "source_en": "CNBC",
+    "summary": "伊朗外交部长表示，伊朗目前无意与美国进行直接谈判，但正在审查特朗普提出的15点停战计划。此举发生在伊朗战争持续升级的背景下，霍尔木兹海峡的局势仍然紧张。伊朗方面强调，任何和平方案都必须尊重伊朗的核心利益。",
+    "summary_en": "Iran foreign minister says Iran has no intention to hold direct talks with the U.S., but is reviewing Trump's 15-point ceasefire proposal amid ongoing conflict escalation.",
     "importance": "high",
-    "analysis": "通胀数据是央行货币政策的重要参考指标，将直接影响利率决策和市场预期。",
+    "analysis": "伊朗战争已成为2026年最大的地缘政治风险事件。特朗普的停战提议能否被接受将直接影响全球油价和通胀走势，投资者需密切关注后续进展。",
     "tags": [
-      "通胀",
+      "地缘政治",
+      "伊朗",
+      "特朗普",
       "油价"
-    ]
+    ],
+    "id": 1,
+    "date": "2026-03-26"
   },
   {
-    "title": "The research firm whose AI paper knocked the whole stock market is out with another big call",
-    "title_en": "The research firm whose AI paper knocked the whole stock market is out with another big call",
-    "url": "https://www.cnbc.com/2026/03/25/the-firm-whose-ai-paper-knocked-the-whole-market-is-out-with-another-big-call.html",
-    "source": "美国消费者新闻与商业频道",
+    "title": "油价下跌：伊朗允许非敌对船只通过霍尔木兹海峡",
+    "title_en": "Oil prices fall as Iran signals safe passage for non-hostile ships through Strait of Hormuz",
+    "url": "https://www.cnbc.com/2026/03/25/oil-price-wti-brent-gas-lng-trump-iran-talks-hormuz.html",
+    "source": "CNBC",
     "source_en": "CNBC",
-    "summary": "Citrini Research said persistently high energy prices risk weighing on consumers and corporate earnings, creating a tough backdrop for equities.",
-    "summary_en": "Citrini Research said persistently high energy prices risk weighing on consumers and corporate earnings, creating a tough backdrop for equities.",
-    "date": "2026-03-26",
+    "summary": "国际油价出现下跌，原因是伊朗方面表示将允许\"非敌对\"船只安全通过霍尔木兹海峡。这一信号缓解了市场对全球石油供应中断的担忧。此前，该海峡的封锁曾引发油价大幅飙升。",
+    "summary_en": "International oil prices fell after Iran signaled it would allow safe passage for non-hostile ships through the Strait of Hormuz, easing concerns about global oil supply disruption.",
+    "importance": "high",
+    "analysis": "霍尔木兹海峡是全球石油运输的咽喉要道，每天约有2100万桶石油通过。伊朗的让步姿态有助于稳定全球能源市场，但局势仍存在不确定性。",
+    "tags": [
+      "油价",
+      "霍尔木兹海峡",
+      "能源",
+      "伊朗"
+    ],
     "id": 2,
-    "importance": "low",
-    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
-    "tags": [
-      "科技"
-    ]
+    "date": "2026-03-26"
   },
   {
-    "title": "Former SEC Chair Jay Clayton says regulators would scrutinize trading ahead of Trump post",
-    "title_en": "Former SEC Chair Jay Clayton says regulators would scrutinize trading ahead of Trump post",
-    "url": "https://www.cnbc.com/2026/03/25/former-sec-chair-jay-clayton-says-regulators-would-scrutinize-trading-ahead-of-trump-post.html",
-    "source": "美国消费者新闻与商业频道",
+    "title": "白宫确认：特朗普5月将在北京与习近平会晤",
+    "title_en": "White House says Trump will meet Xi in China in May",
+    "url": "https://www.cnbc.com/2026/03/25/trump-xi-beijing-china-summit.html",
+    "source": "CNBC",
     "source_en": "CNBC",
-    "summary": "\"Any move like that in advance of any announcement, the regulators are going to look at,\" said Clayton, former SEC chair.",
-    "summary_en": "\"Any move like that in advance of any announcement, the regulators are going to look at,\" said Clayton, former SEC chair.",
-    "date": "2026-03-26",
+    "summary": "白宫正式宣布，特朗普总统将于今年5月在中国北京与中国国家主席习近平举行会晤。此次峰会可能讨论贸易、伊朗局势等议题。市场对中美关系改善抱有期待，相关股票出现上涨。",
+    "summary_en": "The White House officially announced that President Trump will meet with Chinese President Xi Jinping in Beijing this May. The summit may cover trade, Iran situation and other topics.",
+    "importance": "high",
+    "analysis": "中美峰会将对全球市场产生重大影响。如果双方在贸易和地缘政治议题上取得进展，将利好出口企业和科技股。波音等公司可能从中受益。",
+    "tags": [
+      "中美关系",
+      "特朗普",
+      "习近平",
+      "贸易"
+    ],
     "id": 3,
-    "importance": "low",
-    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
-    "tags": [
-      "财经"
-    ]
+    "date": "2026-03-26"
   },
   {
-    "title": "World has 'never experienced' soaring refining margins like this, TotalEnergies CEO tells CNBC",
-    "title_en": "World has 'never experienced' soaring refining margins like this, TotalEnergies CEO tells CNBC",
-    "url": "https://www.cnbc.com/2026/03/24/totalenergies-ceo-world-has-never-experienced-refining-margins-like-this-.html",
-    "source": "美国消费者新闻与商业频道",
+    "title": "SpaceX据报本周提交IPO申请，太空概念股应声大涨",
+    "title_en": "SpaceX reportedly could file for IPO this week. Space stocks rally",
+    "url": "https://www.cnbc.com/2026/03/25/space-stocks-.html",
+    "source": "CNBC",
     "source_en": "CNBC",
-    "summary": "TotalEnergies CEO Patrick Pouyanné on the Iran war, the $1 billion deal with the White House, investment in the U.S., and more.",
-    "summary_en": "TotalEnergies CEO Patrick Pouyanné on the Iran war, the $1 billion deal with the White House, investment in the U.S., and more.",
-    "date": "2026-03-26",
+    "summary": "据多家媒体报道，埃隆·马斯克旗下的SpaceX可能在本周提交IPO申请。这一消息引发太空概念股集体上涨。SpaceX估值可能超过2000亿美元，将成为史上最大IPO之一。",
+    "summary_en": "Multiple reports suggest SpaceX, Elon Musk's space company, may file for IPO this week, triggering a rally in space-related stocks. SpaceX could be valued at over $200 billion.",
+    "importance": "high",
+    "analysis": "SpaceX上市将是2026年资本市场的里程碑事件。投资者可通过现有基金提前布局。太空经济正在成为新的投资热点，产业链上下游公司值得关注。",
+    "tags": [
+      "SpaceX",
+      "IPO",
+      "太空经济",
+      "马斯克"
+    ],
     "id": 4,
-    "importance": "low",
-    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
-    "tags": [
-      "财经"
-    ]
+    "date": "2026-03-26"
   },
   {
-    "title": "Jamie Dimon says Iran war makes Middle East peace prospects better in the long term",
-    "title_en": "Jamie Dimon says Iran war makes Middle East peace prospects better in the long term",
-    "url": "https://www.cnbc.com/2026/03/24/jamie-dimon-iran-war-middle-east-peace-prospects-long-term.html",
-    "source": "美国消费者新闻与商业频道",
+    "title": "Arm股价大涨16%：新芯片收入预期引发市场乐观",
+    "title_en": "Arm jumps 16% as company expects revenue windfall from new chip",
+    "url": "https://www.cnbc.com/2026/03/25/arm-stock-chip-revenue-agi-cpu.html",
+    "source": "CNBC",
     "source_en": "CNBC",
-    "summary": "JPMorgan Chase CEO Jamie Dimon issued an optimistic viewpoint on Middle East peace, weeks into the war with Iran.",
-    "summary_en": "JPMorgan Chase CEO Jamie Dimon issued an optimistic viewpoint on Middle East peace, weeks into the war with Iran.",
-    "date": "2026-03-26",
+    "summary": "英国芯片设计公司Arm股价飙升16%，公司预期新一代芯片将带来显著收入增长。Arm表示，新芯片在AI计算和通用计算领域具有\"重大转变\"意义，已获得多家大客户订单。",
+    "summary_en": "British chip designer Arm surged 16% as the company expects significant revenue growth from its new generation chips. Arm said the new chips represent a significant shift in AI and general computing.",
+    "importance": "medium",
+    "analysis": "Arm在AI芯片领域的布局正在收获成果。随着AI应用爆发，对高性能低功耗芯片的需求持续增长，Arm的IP授权模式具有长期竞争优势。",
+    "tags": [
+      "Arm",
+      "芯片",
+      "AI",
+      "半导体"
+    ],
     "id": 5,
-    "importance": "low",
-    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
-    "tags": [
-      "财经"
-    ]
+    "date": "2026-03-26"
   },
   {
-    "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
-    "title_en": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
-    "url": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
-    "source": "华尔街日报",
-    "source_en": "WSJ",
-    "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
-    "summary_en": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
-    "date": "2026-03-26",
+    "title": "Meta裁员数百人，Reality Labs成重灾区",
+    "title_en": "Meta cutting several hundred jobs across Reality Labs, Facebook",
+    "url": "https://www.cnbc.com/2026/03/25/meta-layoffs-reality-labs-facebook.html",
+    "source": "CNBC",
+    "source_en": "CNBC",
+    "summary": "Meta公司宣布裁员数百人，涉及Reality Labs、Facebook等多个部门。这是Meta在AI转型背景下的新一轮组织调整。同时，Meta和YouTube在洛杉矶社交媒体成瘾案中被判疏忽。",
+    "summary_en": "Meta announced hundreds of layoffs across Reality Labs, Facebook and other departments amid AI transformation. Separately, Meta and YouTube were found negligent in a social media addiction trial in Los Angeles.",
+    "importance": "medium",
+    "analysis": "Meta的裁员反映了科技行业从元宇宙向AI的战略转型。社交媒体成瘾案的判决可能对平台监管产生深远影响，投资者需关注相关法律风险。",
+    "tags": [
+      "Meta",
+      "裁员",
+      "AI",
+      "社交媒体"
+    ],
     "id": 6,
-    "importance": "low",
-    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
-    "tags": [
-      "科技"
-    ]
+    "date": "2026-03-26"
   },
   {
-    "title": "Comex Gold, Silver Settle Lower",
-    "title_en": "Comex Gold, Silver Settle Lower",
-    "url": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
-    "source": "华尔街日报",
-    "source_en": "WSJ",
-    "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
-    "summary_en": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
-    "date": "2026-03-26",
+    "title": "道指涨300点，市场押注美伊停火可能性",
+    "title_en": "Dow rises 300 points as traders hope U.S. and Iran can reach ceasefire deal",
+    "url": "https://www.cnbc.com/2026/03/24/stock-market-today-live-updates.html",
+    "source": "CNBC",
+    "source_en": "CNBC",
+    "summary": "美国股市上涨，道琼斯指数上涨约300点。投资者对美伊可能达成停火协议抱有希望，市场风险偏好回升。不过，华尔街衰退预期也在上升，经济数据出现裂痕。",
+    "summary_en": "US stocks rose with Dow gaining about 300 points as investors hope for a ceasefire between the US and Iran. However, recession odds are also climbing on Wall Street.",
+    "importance": "medium",
+    "analysis": "市场正在地缘政治风险和经济衰退担忧之间博弈。短期内的停火消息可能提振市场，但投资者应保持谨慎，关注通胀和企业盈利数据。",
+    "tags": [
+      "美股",
+      "道指",
+      "地缘政治",
+      "衰退"
+    ],
     "id": 7,
-    "importance": "low",
-    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
-    "tags": [
-      "财经"
-    ]
+    "date": "2026-03-26"
   },
   {
-    "title": "DeepSeek Won't Sink U.S. AI Titans",
-    "title_en": "DeepSeek Won't Sink U.S. AI Titans",
-    "url": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
-    "source": "华尔街日报",
-    "source_en": "WSJ",
-    "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
-    "summary_en": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
-    "date": "2026-03-26",
+    "title": "华尔街衰退预期升温：经济表面下现裂痕",
+    "title_en": "Recession odds climb on Wall Street as economy shows cracks beneath the surface",
+    "url": "https://www.cnbc.com/2026/03/25/recession-odds-climb-on-wall-street-as-the-economy-shows-cracks-beneath-the-surface.html",
+    "source": "CNBC",
+    "source_en": "CNBC",
+    "summary": "华尔街对经济衰退的预期正在上升。尽管表面数据尚可，但经济内部已出现裂痕。高利率、油价上涨和地缘政治不确定性都在侵蚀消费者信心和企业投资意愿。",
+    "summary_en": "Wall Street recession expectations are rising. While surface data looks okay, cracks are appearing beneath. High rates, rising oil prices and geopolitical uncertainty are eroding consumer confidence.",
+    "importance": "medium",
+    "analysis": "衰退风险上升意味着投资者应增加防御性资产配置。必需消费品、医疗健康和公用事业板块通常在衰退期表现相对较好。",
+    "tags": [
+      "衰退",
+      "华尔街",
+      "经济",
+      "利率"
+    ],
     "id": 8,
-    "importance": "low",
-    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
-    "tags": [
-      "科技"
-    ]
+    "date": "2026-03-26"
   },
   {
-    "title": "Financial Services Roundup: Market Talk",
-    "title_en": "Financial Services Roundup: Market Talk",
-    "url": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
-    "source": "华尔街日报",
-    "source_en": "WSJ",
-    "summary": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
-    "summary_en": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
-    "date": "2026-03-26",
+    "title": "默克67亿美元收购Terns，加码抗癌药物管线",
+    "title_en": "Merck to buy Terns Pharmaceuticals for $6.7 billion to boost cancer pipeline",
+    "url": "https://www.cnbc.com/2026/03/25/merck-buy-terns-pharmaceuticals-mrk-stock-boost-cancer-pipeline.html",
+    "source": "CNBC",
+    "source_en": "CNBC",
+    "summary": "制药巨头默克宣布将以约67亿美元收购Terns Pharmaceuticals，以加强其抗癌药物研发管线。Terns在肿瘤免疫治疗领域拥有多个有前景的候选药物。交易预计将于今年完成。",
+    "summary_en": "Pharmaceutical giant Merck announced it will acquire Terns Pharmaceuticals for about $6.7 billion to strengthen its cancer drug pipeline. Terns has multiple promising candidates in oncology immunotherapy.",
+    "importance": "medium",
+    "analysis": "大型药企的并购活动通常预示着行业对创新药物的强劲需求。默克此举旨在弥补Keytruda专利到期后的收入缺口，投资者可关注相关生物科技股。",
+    "tags": [
+      "默克",
+      "并购",
+      "制药",
+      "抗癌"
+    ],
     "id": 9,
-    "importance": "low",
-    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
-    "tags": [
-      "财经"
-    ]
+    "date": "2026-03-26"
   },
   {
-    "title": "Arm’s stock shoots to best day in a year as an Nvidia-like chapter may be starting",
-    "title_en": "Arm’s stock shoots to best day in a year as an Nvidia-like chapter may be starting",
-    "url": "https://www.marketwatch.com/story/arms-stock-shoots-toward-best-day-in-a-year-as-an-nvidia-like-chapter-may-be-starting-03f0ff60?mod=mw_rss_topstories",
-    "source": "市场观察",
-    "source_en": "MarketWatch",
-    "summary": "Arm could dominate the CPU market the way Nvidia has come to dominate the GPU market, an analyst says.",
-    "summary_en": "Arm could dominate the CPU market the way Nvidia has come to dominate the GPU market, an analyst says.",
-    "date": "2026-03-26",
+    "title": "英国将在青少年中试点社交媒体禁令",
+    "title_en": "UK to trial social media ban on hundreds of teens in online safety push",
+    "url": "https://www.cnbc.com/2026/03/25/uk-trial-social-media-ban-teenagers-online-safety-push.html",
+    "source": "CNBC",
+    "source_en": "CNBC",
+    "summary": "英国政府宣布将在数百名青少年中开展社交媒体禁令试点项目，作为网络安全推广的一部分。参与者将被禁止使用主要社交平台，以研究对心理健康的影响。此举引发隐私和监管讨论。",
+    "summary_en": "The UK government announced it will pilot a social media ban on hundreds of teenagers as part of an online safety push. Participants will be banned from major platforms to study effects on mental health.",
+    "importance": "low",
+    "analysis": "全球对社交媒体监管正在收紧。英国试点可能为其他国家提供政策参考。对Meta、TikTok等平台而言，更严格的青少年使用限制可能影响用户增长和广告收入。",
+    "tags": [
+      "英国",
+      "社交媒体",
+      "监管",
+      "青少年"
+    ],
     "id": 10,
-    "importance": "low",
-    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
-    "tags": [
-      "财经"
-    ]
-  },
-  {
-    "title": "The 5 highest-paid college basketball players this year: No. 1 is making $4.2 million from NIL",
-    "title_en": "The 5 highest-paid college basketball players this year: No. 1 is making $4.2 million from NIL",
-    "url": "https://www.marketwatch.com/story/the-5-highest-paid-college-basketball-players-this-year-no-1-is-making-4-2-million-from-nil-963cbc7a?mod=mw_rss_topstories",
-    "source": "市场观察",
-    "source_en": "MarketWatch",
-    "summary": "As the Sweet 16 of March Madness tips off, multiple athletes are now earning over $1 million from NIL deals.",
-    "summary_en": "As the Sweet 16 of March Madness tips off, multiple athletes are now earning over $1 million from NIL deals.",
-    "date": "2026-03-26",
-    "id": 11,
-    "importance": "low",
-    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
-    "tags": [
-      "财经"
-    ]
-  },
-  {
-    "title": "Six years away from Social Security’s insolvency and lawmakers still can’t agree on how to fix it",
-    "title_en": "Six years away from Social Security’s insolvency and lawmakers still can’t agree on how to fix it",
-    "url": "https://www.marketwatch.com/story/six-years-away-from-social-securitys-insolvency-and-lawmakers-still-cant-agree-on-how-to-fix-it-4bf1ac97?mod=mw_rss_topstories",
-    "source": "市场观察",
-    "source_en": "MarketWatch",
-    "summary": "With six years to go until Social Security hits insolvency, lawmakers agree that the future of the program is a mess — but that’s about all they can agree on.",
-    "summary_en": "With six years to go until Social Security hits insolvency, lawmakers agree that the future of the program is a mess — but that’s about all they can agree on.",
-    "date": "2026-03-26",
-    "id": 12,
-    "importance": "low",
-    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
-    "tags": [
-      "财经"
-    ]
-  },
-  {
-    "title": "Super Micro, Dell and HPE have been red-hot stocks this week. What’s behind the big moves.",
-    "title_en": "Super Micro, Dell and HPE have been red-hot stocks this week. What’s behind the big moves.",
-    "url": "https://www.marketwatch.com/story/super-micro-dell-and-hpe-have-been-red-hot-stocks-this-week-whats-behind-the-big-moves-9fc8acc7?mod=mw_rss_topstories",
-    "source": "市场观察",
-    "source_en": "MarketWatch",
-    "summary": "Server makers could benefit from a possible easing of memory pressures and renewed interest in central processing units.",
-    "summary_en": "Server makers could benefit from a possible easing of memory pressures and renewed interest in central processing units.",
-    "date": "2026-03-26",
-    "id": 13,
-    "importance": "low",
-    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
-    "tags": [
-      "财经"
-    ]
-  },
-  {
-    "title": "Microsoft Stock Tracking Worst 6-Month Stretch Since 2009",
-    "title_en": "Microsoft Stock Tracking Worst 6-Month Stretch Since 2009",
-    "url": "https://finance.yahoo.com/m/e99eb7ee-9164-30c8-8d52-2386e87bb5f2/microsoft-stock-tracking.html?.tsrc=rss",
-    "source": "雅虎财经",
-    "source_en": "YahooFinance",
-    "summary": "UBS analysts cut their price target on the stock, citing some concerns about the growth of its 365 Copilot product, though Microsoft cited “very good” usage in the second quarter.",
-    "summary_en": "UBS analysts cut their price target on the stock, citing some concerns about the growth of its 365 Copilot product, though Microsoft cited “very good” usage in the second quarter.",
-    "date": "2026-03-26",
-    "id": 14,
-    "importance": "low",
-    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
-    "tags": [
-      "财经"
-    ]
-  },
-  {
-    "title": "Elon Musk Should Borrow A Page From Steve Jobs And Create A Brand Identity For His EV Giant, Says Gary Black: 'Who Does Tesla Stand For…'",
-    "title_en": "Elon Musk Should Borrow A Page From Steve Jobs And Create A Brand Identity For His EV Giant, Says Gary Black: 'Who Does Tesla Stand For…'",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-borrow-page-steve-203111148.html?.tsrc=rss",
-    "source": "雅虎财经",
-    "source_en": "YahooFinance",
-    "summary": "On Monday, investor Gary Black said that Tesla Inc. risks falling short on brand clarity despite strong products. He urged Elon Musk to adopt a strategy inspired by legendary Apple Inc. co-founder and former CEO Steve Jobs. Gary Black Questions Tesla's Brand Identity Despite Strong Products \"I've lo",
-    "summary_en": "On Monday, investor Gary Black said that Tesla Inc. risks falling short on brand clarity despite strong products. He urged Elon Musk to adopt a strategy inspired by legendary Apple Inc. co-founder and former CEO Steve Jobs. Gary Black Questions Tesla's Brand Identity Despite Strong Products \"I've lo",
-    "date": "2026-03-26",
-    "id": 15,
-    "importance": "low",
-    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
-    "tags": [
-      "财经"
-    ]
-  },
-  {
-    "title": "[Latest] Global Sleep Tech Devices Market Size/Share Worth USD 134.60 Billion by 2035 at a 18.46% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
-    "title_en": "[Latest] Global Sleep Tech Devices Market Size/Share Worth USD 134.60 Billion by 2035 at a 18.46% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
-    "url": "https://finance.yahoo.com/sectors/healthcare/articles/latest-global-sleep-tech-devices-203000014.html?.tsrc=rss",
-    "source": "雅虎财经",
-    "source_en": "YahooFinance",
-    "summary": "[220+ Pages Latest Report] According to a market research study published by Healthcare Foresights, the demand analysis of Global Sleep Tech Devices Market size & share revenue was valued at approximately USD 29.30 Billion in 2025 and is expected to reach USD 34.70 Billion in 2026 and is expected to",
-    "summary_en": "[220+ Pages Latest Report] According to a market research study published by Healthcare Foresights, the demand analysis of Global Sleep Tech Devices Market size & share revenue was valued at approximately USD 29.30 Billion in 2025 and is expected to reach USD 34.70 Billion in 2026 and is expected to",
-    "date": "2026-03-26",
-    "id": 16,
-    "importance": "low",
-    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
-    "tags": [
-      "财经"
-    ]
-  },
-  {
-    "title": "Why QQQM Is Riskier Than Its Low-Cost, Set-It-and-Forget-It Reputation Suggests",
-    "title_en": "Why QQQM Is Riskier Than Its Low-Cost, Set-It-and-Forget-It Reputation Suggests",
-    "url": "https://247wallst.com/investing/2026/03/25/why-qqqm-is-riskier-than-its-low-cost-set-it-and-forget-it-reputation-suggests/?.tsrc=rss",
-    "source": "雅虎财经",
-    "source_en": "YahooFinance",
-    "summary": "Invesco NASDAQ 100 ETF (NYSEARCA:QQQM) has returned nearly 94% over the past five years, making it one of the most compelling passive growth vehicles for retail investors. Launched in 2020 as a lower-cost alternative to QQQ, it tracks the NASDAQ-100 Index at an expense ratio of just 0.15%. The fund ",
-    "summary_en": "Invesco NASDAQ 100 ETF (NYSEARCA:QQQM) has returned nearly 94% over the past five years, making it one of the most compelling passive growth vehicles for retail investors. Launched in 2020 as a lower-cost alternative to QQQ, it tracks the NASDAQ-100 Index at an expense ratio of just 0.15%. The fund ",
-    "date": "2026-03-26",
-    "id": 17,
-    "importance": "low",
-    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
-    "tags": [
-      "财经"
-    ]
-  },
-  {
-    "title": "津巴布韦禁止锂精矿出口政策思考和展望",
-    "title_en": null,
-    "url": "http://xueqiu.com/8222687488/380943443",
-    "source": "雪球",
-    "source_en": null,
-    "summary": "",
-    "summary_en": null,
-    "date": "2026-03-26",
-    "id": 18,
-    "importance": "low",
-    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
-    "tags": [
-      "财经"
-    ]
-  },
-  {
-    "title": "白酒周期分析—当下行情认识与未来投资建议",
-    "title_en": null,
-    "url": "http://xueqiu.com/8778887955/381061598",
-    "source": "雪球",
-    "source_en": null,
-    "summary": "",
-    "summary_en": null,
-    "date": "2026-03-26",
-    "id": 19,
-    "importance": "low",
-    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
-    "tags": [
-      "财经"
-    ]
-  },
-  {
-    "title": "历史油运价格周期的复盘",
-    "title_en": null,
-    "url": "http://xueqiu.com/5385800475/381020502",
-    "source": "雪球",
-    "source_en": null,
-    "summary": "",
-    "summary_en": null,
-    "date": "2026-03-26",
-    "id": 20,
-    "importance": "low",
-    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
-    "tags": [
-      "财经"
-    ]
-  },
-  {
-    "title": "华为智能门锁 M2“悄悄”上市：AI 指纹解锁 + 4 年维保，国补价 679.15 元",
-    "title_en": null,
-    "url": "https://www.ithome.com/0/932/712.htm",
-    "source": "IT之家",
-    "source_en": null,
-    "summary": "IT之家 3 月 26 日消息，华为智能门锁 M2 已“悄悄”开售，其支持 AI 指纹解锁 + 官方 4 年维保（比行业多一年），定价 799 元、国补价 679.15 元。京东华为智能门锁 M2 国补价 679.15 元直达链接据介绍，华为智能门锁 M2 采用 0.5 毫米黄金深度 + 圆润 C 角设计，支持 AI 指纹解锁，宣称每次解锁都在完善指纹特征，识别会越来越精准，解锁时间约 0.5s、误识率＜0.00001。除了 AI 指纹解锁外，华为智能门锁 M2 还支持通过 NFC 卡片、物理钥匙、数字密码 / 访客密码 / 虚位密码、华为手机、华为手表等方式进行解锁。该门锁采用 4 节 5 ",
-    "summary_en": null,
-    "date": "2026-03-26",
-    "id": 21,
-    "importance": "low",
-    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
-    "tags": [
-      "科技"
-    ]
-  },
-  {
-    "title": "边走边打 + 光速毁伤：国产激光武器击落无人机真实画面公布",
-    "title_en": null,
-    "url": "https://www.ithome.com/0/932/711.htm",
-    "source": "IT之家",
-    "source_en": null,
-    "summary": "IT之家 3 月 25 日消息，央视军事今日分享了国产激光武器击落无人机的真实画面。据介绍，面对很难被电子干扰的光纤无人机，“光箭-21A”以硬杀伤能力见长，可在数公里外形成高密度能量束，持续作用于无人机机身结构，短时间内击穿目标无人机外壳，烧毁内部电路或动力系统。IT之家查询获悉，“光箭-21A”搭载相控阵雷达和红外侦察系统，采用的是“边走边打”的应对模式，既能保持火力压制状态，又可以避免因为静止不动而轻易被敌方锁定的风险。值得一提的是，“光箭-21A”还有一个战斗搭子 ——“光箭-11E”。后者同样搭载相控阵雷达和红外侦察系统，依托脉冲激光实现精准制敌，可直击无人机核心部件，瞬间“致盲”，",
-    "summary_en": null,
-    "date": "2026-03-26",
-    "id": 22,
-    "importance": "low",
-    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
-    "tags": [
-      "财经"
-    ]
-  },
-  {
-    "title": "华为鸿蒙手机“龙虾”小艺 Claw 开启预约：适配 HarmonyOS 6，支持手机、平板设备",
-    "title_en": null,
-    "url": "https://www.ithome.com/0/932/710.htm",
-    "source": "IT之家",
-    "source_en": null,
-    "summary": "IT之家 3 月 25 日消息，华为鸿蒙手机的“龙虾”—— 小艺 Claw 目前已开启预约，适配 HarmonyOS 6 系统，支持手机、平板设备。用户可在小艺 App 内输入“小艺 Claw 预约”进行预约。据介绍，小艺 Claw 支持开箱即用，可一键唤醒；支持自我学习、深度记忆，可不断进化；支持多端协同，可与鸿蒙多设备互动，如便捷管理手机的日程、备忘录等；支持端云协同，拥有鸿蒙系统级安全加固。另外，小艺 Claw 可以帮助用户处理文档编辑、写 PPT、自动回复邮件等任务，还能选择不同人格。值得一提的是，小艺 Claw 不同的初始人格会有不同的预制 Skills，用户也可以在 Skills ",
-    "summary_en": null,
-    "date": "2026-03-26",
-    "id": 23,
-    "importance": "low",
-    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
-    "tags": [
-      "财经"
-    ]
-  },
-  {
-    "title": "realme 真我 GT8 Pro 手机适配 Android 17 开发者预览版教程说明发布",
-    "title_en": null,
-    "url": "https://www.ithome.com/0/932/709.htm",
-    "source": "IT之家",
-    "source_en": null,
-    "summary": "IT之家 3 月 25 日消息，realme UI 官方今日在真我社区发布了 GT8 Pro 手机适配 Android 17 开发者预览版的教程说明。据介绍，通过与 Google 的密切合作，真我手机带来了第一版基于 Android 17 开发者预览版的 realme UI，该版本目前仅适配真我 GT8 Pro 手机。realme UI 官方表示，Android 17 Beta 2 是面向开发者的安卓版本，仍处于开发的早期阶段，可能没有 Android 的所有内置功能。除非是开发人员，否则不建议刷入此 ROM。有些应用程序可能无法正常工作。这包括谷歌应用和第三方应用。该版本已知问题如下：升级将",
-    "summary_en": null,
-    "date": "2026-03-26",
-    "id": 24,
-    "importance": "low",
-    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
-    "tags": [
-      "财经"
-    ]
-  },
-  {
-    "title": "整合管理与协作能力，Apple 推出企业服务平台「Apple 商务」",
-    "title_en": null,
-    "url": "https://sspai.com/post/107800",
-    "source": "少数派",
-    "source_en": null,
-    "summary": "Apple今日宣布面向企业用户推出全新一站式服务平台：Apple商务，将于4月14日在超过200个国家和地区正式发布。Apple商务(AppleBusiness)是Apple对于目前针对商业客户推出的 ...查看全文",
-    "summary_en": null,
-    "date": "2026-03-26",
-    "id": 25,
-    "importance": "low",
-    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
-    "tags": [
-      "财经"
-    ]
-  },
-  {
-    "title": "探访帝国之心，吴哥旅行完全指南（下）：景点体验",
-    "title_en": null,
-    "url": "https://sspai.com/post/106822",
-    "source": "少数派",
-    "source_en": null,
-    "summary": "出发前我对柬埔寨的想象里装满了不确定性，真正踏上这片土地之后，心却奇怪地安静下来。查看全文",
-    "summary_en": null,
-    "date": "2026-03-26",
-    "id": 26,
-    "importance": "low",
-    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
-    "tags": [
-      "财经"
-    ]
-  },
-  {
-    "title": "直面「猝死」这个话题：你需要了解哪些知识？",
-    "title_en": null,
-    "url": "https://sspai.com/post/65228",
-    "source": "少数派",
-    "source_en": null,
-    "summary": "心内科博士又来吓唬你了！（不是查看全文",
-    "summary_en": null,
-    "date": "2026-03-26",
-    "id": 27,
-    "importance": "low",
-    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
-    "tags": [
-      "财经"
-    ]
-  },
-  {
-    "title": "iOS 26.4 值得关注的新特性",
-    "title_en": null,
-    "url": "https://sspai.com/post/107743",
-    "source": "少数派",
-    "source_en": null,
-    "summary": "在经历了iOS26.3版本的小幅改动之后，Apple在iOS26.4推出了诸多实用、重要的更新内容，包括AppleMusic、播客、CarPlay、提醒事项、家庭共享等在内都得到了显著的优化提升。接下 ...查看全文",
-    "summary_en": null,
-    "date": "2026-03-26",
-    "id": 28,
-    "importance": "low",
-    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
-    "tags": [
-      "财经"
-    ]
+    "date": "2026-03-26"
   }
 ]
