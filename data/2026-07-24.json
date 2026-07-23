@@ -1,0 +1,450 @@
+[
+  {
+    "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher",
+    "title_en": "Odds of Federal Reserve rate hike surge as oil prices rip higher",
+    "url": "https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html",
+    "source": "美国消费者新闻与商业频道",
+    "source_en": "CNBC",
+    "summary": "Investors are increasingly readying for the Federal Reserve to hike interest rates in September.",
+    "summary_en": "Investors are increasingly readying for the Federal Reserve to hike interest rates in September.",
+    "date": "2026-07-24",
+    "id": 1,
+    "importance": "high",
+    "analysis": "货币政策变动对全球金融市场有重要影响，投资者应密切关注后续政策走向和相关经济数据。",
+    "tags": [
+      "美联储"
+    ]
+  },
+  {
+    "title": "JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter",
+    "title_en": "JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter",
+    "url": "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html",
+    "source": "美国消费者新闻与商业频道",
+    "source_en": "CNBC",
+    "summary": "Wall Street is banking heavily on exchange-traded funds that give investors artificial intelligence exposure, according to JPMorgan Asset Management.",
+    "summary_en": "Wall Street is banking heavily on exchange-traded funds that give investors artificial intelligence exposure, according to JPMorgan Asset Management.",
+    "date": "2026-07-24",
+    "id": 2,
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'",
+    "title_en": "Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'",
+    "url": "https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html",
+    "source": "美国消费者新闻与商业频道",
+    "source_en": "CNBC",
+    "summary": "After staying flat as the U.S.-Iran war heated up again, equities tumbled on Thursday after oil prices crossed $100 per barrel.",
+    "summary_en": "After staying flat as the U.S.-Iran war heated up again, equities tumbled on Thursday after oil prices crossed $100 per barrel.",
+    "date": "2026-07-24",
+    "id": 3,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "John Paulson says we are in the early stages of a long-term bull market for gold",
+    "title_en": "John Paulson says we are in the early stages of a long-term bull market for gold",
+    "url": "https://www.cnbc.com/2026/07/22/john-paulson-says-we-are-in-early-stages-of-a-long-term-bull-market-for-gold.html",
+    "source": "美国消费者新闻与商业频道",
+    "source_en": "CNBC",
+    "summary": "He said demand for bullion continues to broaden, led by central banks that have been adding to their reserves alongside growing private-sector interest.",
+    "summary_en": "He said demand for bullion continues to broaden, led by central banks that have been adding to their reserves alongside growing private-sector interest.",
+    "date": "2026-07-24",
+    "id": 4,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+    "title_en": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+    "url": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+    "source": "华尔街日报",
+    "source_en": "WSJ",
+    "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+    "summary_en": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+    "date": "2026-07-24",
+    "id": 5,
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "Comex Gold, Silver Settle Lower",
+    "title_en": "Comex Gold, Silver Settle Lower",
+    "url": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
+    "source": "华尔街日报",
+    "source_en": "WSJ",
+    "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+    "summary_en": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+    "date": "2026-07-24",
+    "id": 6,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "DeepSeek Won't Sink U.S. AI Titans",
+    "title_en": "DeepSeek Won't Sink U.S. AI Titans",
+    "url": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+    "source": "华尔街日报",
+    "source_en": "WSJ",
+    "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+    "summary_en": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+    "date": "2026-07-24",
+    "id": 7,
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "Financial Services Roundup: Market Talk",
+    "title_en": "Financial Services Roundup: Market Talk",
+    "url": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
+    "source": "华尔街日报",
+    "source_en": "WSJ",
+    "summary": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+    "summary_en": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+    "date": "2026-07-24",
+    "id": 8,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "The August stock-market slump is a myth — so why does Wall Street keep repeating it?",
+    "title_en": "The August stock-market slump is a myth — so why does Wall Street keep repeating it?",
+    "url": "https://www.marketwatch.com/story/the-august-stock-market-slump-is-a-myth-so-why-does-wall-street-keep-repeating-it-bc47db44?mod=mw_rss_topstories",
+    "source": "市场观察",
+    "source_en": "MarketWatch",
+    "summary": "More than 200 years of data show stocks typically gain in August, while market volatility sits well below average.",
+    "summary_en": "More than 200 years of data show stocks typically gain in August, while market volatility sits well below average.",
+    "date": "2026-07-24",
+    "id": 9,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Most FDA advisers say peptides like BPC-157 and TB-500 should be made available in the U.S. Here’s what happens next.",
+    "title_en": "Most FDA advisers say peptides like BPC-157 and TB-500 should be made available in the U.S. Here’s what happens next.",
+    "url": "https://www.marketwatch.com/story/peptides-could-soon-become-widely-available-in-the-u-s-heres-what-happens-next-ead02287?mod=mw_rss_topstories",
+    "source": "市场观察",
+    "source_en": "MarketWatch",
+    "summary": "The FDA is deciding whether seven peptides like BPC-157 and TB-500 can be legally compounded, potentially opening the door to broader use in Americans.",
+    "summary_en": "The FDA is deciding whether seven peptides like BPC-157 and TB-500 can be legally compounded, potentially opening the door to broader use in Americans.",
+    "date": "2026-07-24",
+    "id": 10,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "S&P 500 flashes sell signals — options traders are bracing for wild swings in Apple, Meta and Microsoft",
+    "title_en": "S&P 500 flashes sell signals — options traders are bracing for wild swings in Apple, Meta and Microsoft",
+    "url": "https://www.marketwatch.com/story/s-p-500-flashes-sell-signals-options-traders-are-bracing-for-wild-swings-in-apple-meta-and-microsoft-83ff7d65?mod=mw_rss_topstories",
+    "source": "市场观察",
+    "source_en": "MarketWatch",
+    "summary": "Nervous investors set the stage for massive post-earnings moves in Wall Street’s biggest stocks.",
+    "summary_en": "Nervous investors set the stage for massive post-earnings moves in Wall Street’s biggest stocks.",
+    "date": "2026-07-24",
+    "id": 11,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
+    "title_en": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
+    "url": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
+    "source": "市场观察",
+    "source_en": "MarketWatch",
+    "summary": "The hottest tech trades of 2026 just got slammed — smart investors are buying anyway.",
+    "summary_en": "The hottest tech trades of 2026 just got slammed — smart investors are buying anyway.",
+    "date": "2026-07-24",
+    "id": 12,
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "VeriSign Q2 Earnings Call Highlights",
+    "title_en": "VeriSign Q2 Earnings Call Highlights",
+    "url": "https://www.marketbeat.com/instant-alerts/verisign-q2-earnings-call-highlights-2026-07-23/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+    "source": "雅虎财经",
+    "source_en": "YahooFinance",
+    "summary": "VeriSign (NASDAQ:VRSN) reported stronger second-quarter 2026 results, citing record domain name registrations, continued solid renewal rates and a rising contribution from artificial intelligence-related tools that management said are making it easier for users to get online. Executive Chairman, Pr",
+    "summary_en": "VeriSign (NASDAQ:VRSN) reported stronger second-quarter 2026 results, citing record domain name registrations, continued solid renewal rates and a rising contribution from artificial intelligence-related tools that management said are making it easier for users to get online. Executive Chairman, Pr",
+    "date": "2026-07-24",
+    "id": 13,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "When AI CapEx Eats Cash: Is Alphabet’s Huge Bet Building a Moat or Sinking Margins?",
+    "title_en": "When AI CapEx Eats Cash: Is Alphabet’s Huge Bet Building a Moat or Sinking Margins?",
+    "url": "https://finance.yahoo.com/m/61ef1def-7f89-3879-b5f4-6853dbcbdb75/when-ai-capex-eats-cash%3A-is.html?.tsrc=rss",
+    "source": "雅虎财经",
+    "source_en": "YahooFinance",
+    "summary": "Alphabet  reported blowout earnings results late Wednesday, but the stock is dropping after the search giant again raised its forecast for capital expenditures.  The Google-parent reported second-quarter adjusted earnings of $9.11 per share, well ahead of Wall Street’s consensus estimate for earning",
+    "summary_en": "Alphabet  reported blowout earnings results late Wednesday, but the stock is dropping after the search giant again raised its forecast for capital expenditures.  The Google-parent reported second-quarter adjusted earnings of $9.11 per share, well ahead of Wall Street’s consensus estimate for earning",
+    "date": "2026-07-24",
+    "id": 14,
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "Intel Stock Jumps as Earnings Nearly Double Analyst Estimates",
+    "title_en": "Intel Stock Jumps as Earnings Nearly Double Analyst Estimates",
+    "url": "https://finance.yahoo.com/m/bf317748-aff6-3358-94e9-ad5ac764930f/intel-stock-jumps-as-earnings.html?.tsrc=rss",
+    "source": "雅虎财经",
+    "source_en": "YahooFinance",
+    "summary": "Intel reported second-quarter adjusted earnings of 42 cents per share, compared to analyst estimates for earnings of 22 cents per share.",
+    "summary_en": "Intel reported second-quarter adjusted earnings of 42 cents per share, compared to analyst estimates for earnings of 22 cents per share.",
+    "date": "2026-07-24",
+    "id": 15,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "MoonPay Now Accepts Discover Cards For Crypto Purchases",
+    "title_en": "MoonPay Now Accepts Discover Cards For Crypto Purchases",
+    "url": "https://www.cryptoprowl.com/releases/moonpay-now-accepts-discover-cards-for-crypto-purchases-6240?.tsrc=rss",
+    "source": "雅虎财经",
+    "source_en": "YahooFinance",
+    "summary": "Privately held MoonPay has adopted the Discover Network, allowing its customers to buy and sell cryptocurrencies th...",
+    "summary_en": "Privately held MoonPay has adopted the Discover Network, allowing its customers to buy and sell cryptocurrencies th...",
+    "date": "2026-07-24",
+    "id": 16,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "供需决定价格，茅台也不会例外",
+    "title_en": null,
+    "url": "http://xueqiu.com/7368170779/401826226",
+    "source": "雪球",
+    "source_en": null,
+    "summary": "",
+    "summary_en": null,
+    "date": "2026-07-24",
+    "id": 17,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "股份行板块价值分化，平安银行迎来重估窗口",
+    "title_en": null,
+    "url": "http://xueqiu.com/1524241372/401783608",
+    "source": "雪球",
+    "source_en": null,
+    "summary": "",
+    "summary_en": null,
+    "date": "2026-07-24",
+    "id": 18,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "银行"
+    ]
+  },
+  {
+    "title": "NPO：天然的产业净化器",
+    "title_en": null,
+    "url": "http://xueqiu.com/5672579962/401802063",
+    "source": "雪球",
+    "source_en": null,
+    "summary": "",
+    "summary_en": null,
+    "date": "2026-07-24",
+    "id": 19,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "随想319 谷歌们的“囚徒困境”",
+    "title_en": null,
+    "url": "http://xueqiu.com/1438190065/401715473",
+    "source": "雪球",
+    "source_en": null,
+    "summary": "",
+    "summary_en": null,
+    "date": "2026-07-24",
+    "id": 20,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "《漫威金刚狼》最新预告公开：9 月 15 日登陆 PS5，实体版不受索尼新规影响",
+    "title_en": null,
+    "url": "https://www.ithome.com/0/980/877.htm",
+    "source": "IT之家",
+    "source_en": null,
+    "summary": "IT之家 7 月 24 日消息，Insomniac Games 在 7 月 23 日举行的圣迭戈国际动漫展（SDCC）上发布了《漫威金刚狼》的全新剧情预告片。本次预告片以罗根在琴 · 格雷身边平息狂暴状态开场，随后快速展开与红色欧米伽、死亡女等经典反派的激烈交锋。据IT之家此前报道，游戏将于 2026 年 9 月 15 日发售，由 PS5 平台独占。预告片透露了游戏的核心剧情：金刚狼将帮助昔日盟友保护变种人，免受博利瓦尔 · 特拉斯克的大规模绑架。特拉斯克是哨兵机器人的创造者，其绑架变种人的目的尚不明确。预告片中还出现了巨大的哨兵机器人，压迫感十足。除了红色欧米伽和死亡女，预告片还确认剑齿虎将",
+    "summary_en": null,
+    "date": "2026-07-24",
+    "id": 21,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "苏姿丰：在服务器 CPU 营收方面，AMD 份额已达到 46%",
+    "title_en": null,
+    "url": "https://www.ithome.com/0/980/874.htm",
+    "source": "IT之家",
+    "source_en": null,
+    "summary": "IT之家 7 月 24 日消息，今天（7 月 24 日）在美国旧金山召开的年度盛会 Advancing AI 2026 上，AMD 董事会主席及首席执行官苏姿丰发表主题演讲，透露在数据中心 CPU 市场营收中的比重，AMD 公司份额达到 46%。苏姿丰在演讲中透露，伴随着智能体 AI 在推理过程中更加依赖 CPU 编排调度，在可以预见的未来，该数字会不断攀升。IT之家注：CPU 在数据中心服务器中充当系统编排器。GPU 负责进行矩阵计算和处理与 AI 相关的请求，但 CPU 负责调度操作并管理 GPU 和 HBM 之间的数据流。此外苏姿丰还预估到 2030 年，与计算相关的潜在市场规模（TAM",
+    "summary_en": null,
+    "date": "2026-07-24",
+    "id": 22,
+    "importance": "low",
+    "analysis": "市场情绪受多重因素影响，建议投资者保持理性，关注基本面和长期趋势。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "AMD 展示最强 AI 加速器 MI455X：台积电 2nm 工艺、3200 亿晶体管、432GB HBM4",
+    "title_en": null,
+    "url": "https://www.ithome.com/0/980/873.htm",
+    "source": "IT之家",
+    "source_en": null,
+    "summary": "IT之家 7 月 24 日消息，今天（7 月 24 日）在美国旧金山召开的年度盛会 Advancing AI 2026 上，AMD 董事会主席及首席执行官苏姿丰发表主题演讲，并公布了下一代 AI 加速器 Instinct MI455X 的更多细节。工艺方面，Instinct MI455X GPU 拥有 3200 亿个晶体管，采用先进封装技术构建。其设计包含 4 个加速器复合芯粒（XCD），通过混合键合（hybrid bonding）堆叠在 Fabric 与缓存芯粒（FCD）之上。而 2 个 FCD 均使用台积电的 CoWoS-L 技术封装，并连接 6 个 HBM4 堆和 2 个 I/O Die",
+    "summary_en": null,
+    "date": "2026-07-24",
+    "id": 23,
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "AMD 发布第六代 EPYC Venice CPU：台积电 2nm 工艺，256 核心、2030 亿晶体管、5GHz+ 频率",
+    "title_en": null,
+    "url": "https://www.ithome.com/0/980/872.htm",
+    "source": "IT之家",
+    "source_en": null,
+    "summary": "IT之家 7 月 24 日消息，今天（7 月 24 日）在美国旧金山召开的年度盛会 Advancing AI 2026 上，AMD 公司董事会主席及首席执行官苏姿丰发表主题演讲，介绍了 AMD 第六代 EPYC Venice CPU。工艺方面，这款旗舰服务器 CPU 率先采用台积电 2nm 工艺量产，集成 2030 亿个晶体管，其中计算芯粒（compute chiplet）采用 2nm 工艺，而 I/O Die 部分采用 6nm 工艺。IT之家注：台积电的 2nm 工艺最大的亮点，在于从 FinFET 过渡到 GAA（纳米片晶体管），在相同功耗下性能提升 10-15%，在相同性能下功耗降低 2",
+    "summary_en": null,
+    "date": "2026-07-24",
+    "id": 24,
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "新玩意 247｜少数派的编辑们最近买了啥？",
+    "title_en": null,
+    "url": "https://sspai.com/post/112668",
+    "source": "少数派",
+    "source_en": null,
+    "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@Lotta：海备思文件夹读 ...查看全文",
+    "summary_en": null,
+    "date": "2026-07-24",
+    "id": 25,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "小小云台，稳住「口袋电影机」：DJI Pocket 4P 漫谈",
+    "title_en": null,
+    "url": "https://sspai.com/post/112428",
+    "source": "少数派",
+    "source_en": null,
+    "summary": "Pocket 一体式云台相机满是让人不容小觑的护城河与想象空间。查看全文",
+    "summary_en": null,
+    "date": "2026-07-24",
+    "id": 26,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "让 Windows 顺眼又省心：我的新设备配置经验",
+    "title_en": null,
+    "url": "https://sspai.com/post/111300",
+    "source": "少数派",
+    "source_en": null,
+    "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+    "summary_en": null,
+    "date": "2026-07-24",
+    "id": 27,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "派早报：三星发布多款折叠屏新品、索尼发布 FX5 电影摄影机等",
+    "title_en": null,
+    "url": "https://sspai.com/post/112647",
+    "source": "少数派",
+    "source_en": null,
+    "summary": "OpenAI 发布面向企业用户的 OpenAI Presence，耐克宣布重构大中华区市场生态等。查看全文",
+    "summary_en": null,
+    "date": "2026-07-24",
+    "id": 28,
+    "importance": "low",
+    "analysis": "市场情绪受多重因素影响，建议投资者保持理性，关注基本面和长期趋势。",
+    "tags": [
+      "科技"
+    ]
+  }
+]
