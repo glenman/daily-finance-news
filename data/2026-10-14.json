@@ -1,0 +1,388 @@
+[
+  {
+    "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
+    "title_en": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
+    "url": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
+    "source": "美国消费者新闻与商业频道",
+    "source_en": "CNBC",
+    "summary": "New York Fed President John Williams sees one more rate hike in 2026 but no additional increase in 2027 as inflation pressures ease.",
+    "summary_en": "New York Fed President John Williams sees one more rate hike in 2026 but no additional increase in 2027 as inflation pressures ease.",
+    "date": "2026-10-14",
+    "id": 1,
+    "importance": "high",
+    "analysis": "货币政策变动对全球金融市场有重要影响，投资者应密切关注后续政策走向和相关经济数据。",
+    "tags": [
+      "美联储"
+    ]
+  },
+  {
+    "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+    "title_en": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+    "url": "https://finance.yahoo.com/technology/ai/articles/judge-orders-openai-turn-over-203644748.html?.tsrc=rss",
+    "source": "雅虎财经",
+    "source_en": "YahooFinance",
+    "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+    "summary_en": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+    "date": "2026-10-14",
+    "id": 2,
+    "importance": "high",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "一名 OpenAI 工程师被捕：涉嫌秘密录制高管会议，最高面临 5 年监禁",
+    "title_en": null,
+    "url": "https://www.ithome.com/1/012/653.htm",
+    "source": "IT之家",
+    "source_en": null,
+    "summary": "IT之家 10 月 14 日消息，美国司法部昨日（10 月 13 日）发布公告，称 OpenAI 一名沙特籍工程师因涉嫌在旧金山办公室高管会议室安装隐藏录音设备，被逮捕并指控非法拦截口头通信。该沙特籍工程师现年 35 岁，名为 Abdulrahman Alfozan，已于当地时间 10 月 9 日被逮捕，罪名是非法拦截口头通信。他自 2025 年 7 月起在 OpenAI 工作。若罪名成立，其最高可面临 5 年监禁及 25 万美元（IT之家注：现汇率约合 167.6 万元人民币）罚款。OpenAI 安全人员于 9 月 30 日在旧金山一栋办公楼的高管会议室发现该设备。设备被插入会议室电视机背面",
+    "summary_en": null,
+    "date": "2026-10-14",
+    "id": 3,
+    "importance": "medium",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "汇率",
+      "科技"
+    ]
+  },
+  {
+    "title": "黄仁勋又出手了，英伟达拟再砸 20 亿美元加码欧洲 AI",
+    "title_en": null,
+    "url": "https://www.ithome.com/1/012/651.htm",
+    "source": "IT之家",
+    "source_en": null,
+    "summary": "IT之家 10 月 14 日消息，据彭博社报道，英伟达 CEO 黄仁勋在欧洲访问期间宣布，公司计划追加 20 亿美元（IT之家注：现汇率约合 134.1 亿元人民币）投资。此次欧洲之行还包括与法国总统埃马纽埃尔 · 马克龙会晤。当地时间 13 日，黄仁勋透露，英伟达过去一年在欧洲投资 80 亿美元（现汇率约合 536.4 亿元人民币），此次将在此基础上继续增加投资。他还宣布向法国四家初创企业 Doctolib、Genesis AI、Pigment 和 Entalpic 注资。作为全球最大的 AI 芯片制造商，英伟达承诺在世界各地投资数千亿美元，希望加快 AI 技术的普及，同时带动自身产品的需求",
+    "summary_en": null,
+    "date": "2026-10-14",
+    "id": 4,
+    "importance": "medium",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "汇率",
+      "科技"
+    ]
+  },
+  {
+    "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
+    "title_en": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
+    "url": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
+    "source": "美国消费者新闻与商业频道",
+    "source_en": "CNBC",
+    "summary": "Sluggish consumer demand in China has pushed many companies, such as electric car brands, to accelerate plans for entering other countries.",
+    "summary_en": "Sluggish consumer demand in China has pushed many companies, such as electric car brands, to accelerate plans for entering other countries.",
+    "date": "2026-10-14",
+    "id": 5,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
+    "title_en": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
+    "url": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
+    "source": "美国消费者新闻与商业频道",
+    "source_en": "CNBC",
+    "summary": "JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools.",
+    "summary_en": "JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools.",
+    "date": "2026-10-14",
+    "id": 6,
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
+    "title_en": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
+    "url": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
+    "source": "美国消费者新闻与商业频道",
+    "source_en": "CNBC",
+    "summary": "The incremental approval comes as the U.S. and Chinese presidents are due to meet for a third time this year next month.",
+    "summary_en": "The incremental approval comes as the U.S. and Chinese presidents are due to meet for a third time this year next month.",
+    "date": "2026-10-14",
+    "id": 7,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+    "title_en": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+    "url": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+    "source": "华尔街日报",
+    "source_en": "WSJ",
+    "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+    "summary_en": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+    "date": "2026-10-14",
+    "id": 8,
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "Comex Gold, Silver Settle Lower",
+    "title_en": "Comex Gold, Silver Settle Lower",
+    "url": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
+    "source": "华尔街日报",
+    "source_en": "WSJ",
+    "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+    "summary_en": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+    "date": "2026-10-14",
+    "id": 9,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "DeepSeek Won't Sink U.S. AI Titans",
+    "title_en": "DeepSeek Won't Sink U.S. AI Titans",
+    "url": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+    "source": "华尔街日报",
+    "source_en": "WSJ",
+    "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+    "summary_en": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+    "date": "2026-10-14",
+    "id": 10,
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "Financial Services Roundup: Market Talk",
+    "title_en": "Financial Services Roundup: Market Talk",
+    "url": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
+    "source": "华尔街日报",
+    "source_en": "WSJ",
+    "summary": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+    "summary_en": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+    "date": "2026-10-14",
+    "id": 11,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
+    "title_en": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
+    "url": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories",
+    "source": "市场观察",
+    "source_en": "MarketWatch",
+    "summary": "Anticipation is building for Anthropic’s investor day, as Wall Street grows less patient with heavy AI spending.",
+    "summary_en": "Anticipation is building for Anthropic’s investor day, as Wall Street grows less patient with heavy AI spending.",
+    "date": "2026-10-14",
+    "id": 12,
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+    "title_en": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+    "url": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+    "source": "市场观察",
+    "source_en": "MarketWatch",
+    "summary": "“I like my life, but I also like the idea of a big return after years of putting money into my 401(k).”",
+    "summary_en": "“I like my life, but I also like the idea of a big return after years of putting money into my 401(k).”",
+    "date": "2026-10-14",
+    "id": 13,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
+    "title_en": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
+    "url": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
+    "source": "市场观察",
+    "source_en": "MarketWatch",
+    "summary": "Bernstein analyst Laurent Yoon no longer recommends any of the major telecommunications stocks as he warns of more volatility ahead.",
+    "summary_en": "Bernstein analyst Laurent Yoon no longer recommends any of the major telecommunications stocks as he warns of more volatility ahead.",
+    "date": "2026-10-14",
+    "id": 14,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Six Flags’ stock slumps near 17-year low after fatal incident",
+    "title_en": "Six Flags’ stock slumps near 17-year low after fatal incident",
+    "url": "https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories",
+    "source": "市场观察",
+    "source_en": "MarketWatch",
+    "summary": "A fatal accident on a Six Flags Entertainment roller coaster sent shares of the amusement-park operator tumbling.",
+    "summary_en": "A fatal accident on a Six Flags Entertainment roller coaster sent shares of the amusement-park operator tumbling.",
+    "date": "2026-10-14",
+    "id": 15,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Apple may have a way to dominate the smart home space",
+    "title_en": "Apple may have a way to dominate the smart home space",
+    "url": "https://finance.yahoo.com/video/apple-may-have-a-way-to-dominate-the-smart-home-space-194652300.html?.tsrc=rss",
+    "source": "雅虎财经",
+    "source_en": "YahooFinance",
+    "summary": "Yahoo Finance Technology Editor Dan Howley joins Market Domination host Brooke DiPalma to discuss the latest round of Apple (AAPL) smart home products and the company's edge in competing with Google (GOOG) and Amazon (AMZN).",
+    "summary_en": "Yahoo Finance Technology Editor Dan Howley joins Market Domination host Brooke DiPalma to discuss the latest round of Apple (AAPL) smart home products and the company's edge in competing with Google (GOOG) and Amazon (AMZN).",
+    "date": "2026-10-14",
+    "id": 16,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Apple’s $299 HomeView Is The Tech Giant’s Next Bet on the Smart Home",
+    "title_en": "Apple’s $299 HomeView Is The Tech Giant’s Next Bet on the Smart Home",
+    "url": "https://finance.yahoo.com/video/apple-299-homeview-tech-giant-222100009.html?.tsrc=rss",
+    "source": "雅虎财经",
+    "source_en": "YahooFinance",
+    "summary": "Apple’s new smart-home hub puts messages, calendars, FaceTime and smart home controls on a screen designed to make your iPhone less essential at home. WSJ’s Nicole Nguyen gives her first impressions.",
+    "summary_en": "Apple’s new smart-home hub puts messages, calendars, FaceTime and smart home controls on a screen designed to make your iPhone less essential at home. WSJ’s Nicole Nguyen gives her first impressions.",
+    "date": "2026-10-14",
+    "id": 17,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Apple Takes on Amazon With New Smart Home Gadgets. It Still Isn’t Worth $5 Trillion.",
+    "title_en": "Apple Takes on Amazon With New Smart Home Gadgets. It Still Isn’t Worth $5 Trillion.",
+    "url": "https://finance.yahoo.com/m/44e3206a-a255-3b83-94a0-ab1efc4b012f/apple-takes-on-amazon-with.html?.tsrc=rss",
+    "source": "雅虎财经",
+    "source_en": "YahooFinance",
+    "summary": "Apple stock finished with a market cap of $4.98 trillion after it released its new smart home lineup.",
+    "summary_en": "Apple stock finished with a market cap of $4.98 trillion after it released its new smart home lineup.",
+    "date": "2026-10-14",
+    "id": 18,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "错过后悔等半年：漫步者 S2000MKIII 蓝牙音箱以旧换新后 1058 元补上加补",
+    "title_en": null,
+    "url": "https://www.ithome.com/1/012/652.htm",
+    "source": "IT之家",
+    "source_en": null,
+    "summary": "【京东活动可能随时变更，需以实付款为准】漫步者 S2000MKIII 蓝牙音箱发售于 2019 年 6 月，今年日常售价为 1780 元。京东 11.11 大促期间，按下方步骤下单，叠加 5% 官方直降 + 10% 国补后仅需 1058.93 元：领 9 折 3C 数码券：点此查看领 39-5 元券（加入品牌会员领取）：点此查看下单时选择“以旧换新（旧品残值估价需高于 100 元）”可用 8.5 折换新券京东漫步者 S2000MKIII 蓝牙音箱 Hi-Res aptx-HD 以旧换新后 1058.93 元直达链接如果本地国补支持京东支付，本次大促还可享 12 期免息服务。京东无门槛红包至高 ",
+    "summary_en": null,
+    "date": "2026-10-14",
+    "id": 19,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "苹果面向 AirPods 5、AirPods Max 2 等 8 款耳机推送 9B5043a 固件",
+    "title_en": null,
+    "url": "https://www.ithome.com/1/012/650.htm",
+    "source": "IT之家",
+    "source_en": null,
+    "summary": "IT之家 10 月 14 日消息，苹果公司今天面向 AirPods Pro 3、AirPods 5 和 AirPods Max 2 等 8 款机型，推送开发者版与公开版 Beta 固件，版本号均为 9B5043a。本次更新和 macOS 27.2/iOS 27.2/iPadOS 27.2 的第 4 个开发者预览版同步推出，IT之家援引博文介绍，本次固件更新覆盖以下机型：AirPods Pro 3AirPods 5AirPods 5（无线充电盒）AirPods Pro 2（Lightning）AirPods Pro 2（USB-C）AirPods Max 2AirPods 4AirPods 4（",
+    "summary_en": null,
+    "date": "2026-10-14",
+    "id": 20,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "社区速递 161 | 小米手表 S5、EVA 联名香水与换机热议",
+    "title_en": null,
+    "url": "https://sspai.com/post/116068",
+    "source": "少数派",
+    "source_en": null,
+    "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+    "summary_en": null,
+    "date": "2026-10-14",
+    "id": 21,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 App",
+    "title_en": null,
+    "url": "https://sspai.com/post/115400",
+    "source": "少数派",
+    "source_en": null,
+    "summary": "在2018、2019年左右的少数派，大家曾有一段时间痴迷于折腾各种任务管理软件，我也是其中之一。经过这么多年，我尝试过世面上几乎所有知名的任务管理工具，从小而美的Things、Sorted到大而全的O ...查看全文",
+    "summary_en": null,
+    "date": "2026-10-14",
+    "id": 22,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "迈上生态新台阶，首期 Apple 应用孵化器顺利收官",
+    "title_en": null,
+    "url": "https://sspai.com/post/116028",
+    "source": "少数派",
+    "source_en": null,
+    "summary": "为成熟的开发者、设计师和创业者，提供一片走向广阔商业市场的沃土。查看全文",
+    "summary_en": null,
+    "date": "2026-10-14",
+    "id": 23,
+    "importance": "low",
+    "analysis": "市场情绪受多重因素影响，建议投资者保持理性，关注基本面和长期趋势。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "高端，不只是材质而已：Apple Watch Edition 的前世今生",
+    "title_en": null,
+    "url": "https://sspai.com/post/114561",
+    "source": "少数派",
+    "source_en": null,
+    "summary": "Apple Watch Edition 留下来的，不是一种材料，而是一套做材料的方式。查看全文",
+    "summary_en": null,
+    "date": "2026-10-14",
+    "id": 24,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  }
+]
