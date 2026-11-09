@@ -1,0 +1,450 @@
+[
+  {
+    "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
+    "title_en": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
+    "url": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
+    "source": "美国消费者新闻与商业频道",
+    "source_en": "CNBC",
+    "summary": "San Francisco Fed President Mary Daly called Friday's jobs report \"good news for American workers,\" but noted the pressure inflation is exerting on household finances",
+    "summary_en": "San Francisco Fed President Mary Daly called Friday's jobs report \"good news for American workers,\" but noted the pressure inflation is exerting on household finances",
+    "date": "2026-11-09",
+    "id": 1,
+    "importance": "high",
+    "analysis": "货币政策变动对全球金融市场有重要影响，投资者应密切关注后续政策走向和相关经济数据。",
+    "tags": [
+      "美联储"
+    ]
+  },
+  {
+    "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
+    "title_en": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
+    "url": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
+    "source": "美国消费者新闻与商业频道",
+    "source_en": "CNBC",
+    "summary": "Healthcare stocks may struggle to find momentum as the Democrats get ready to take over Congress.",
+    "summary_en": "Healthcare stocks may struggle to find momentum as the Democrats get ready to take over Congress.",
+    "date": "2026-11-09",
+    "id": 2,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+    "title_en": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+    "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+    "source": "美国消费者新闻与商业频道",
+    "source_en": "CNBC",
+    "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
+    "summary_en": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
+    "date": "2026-11-09",
+    "id": 3,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
+    "title_en": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
+    "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+    "source": "美国消费者新闻与商业频道",
+    "source_en": "CNBC",
+    "summary": "Coreweave's steep yields reflect stress in the AI debt markets as investors worry about a data center slowdown. What comes next.",
+    "summary_en": "Coreweave's steep yields reflect stress in the AI debt markets as investors worry about a data center slowdown. What comes next.",
+    "date": "2026-11-09",
+    "id": 4,
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+    "title_en": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+    "url": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+    "source": "华尔街日报",
+    "source_en": "WSJ",
+    "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+    "summary_en": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+    "date": "2026-11-09",
+    "id": 5,
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "Comex Gold, Silver Settle Lower",
+    "title_en": "Comex Gold, Silver Settle Lower",
+    "url": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
+    "source": "华尔街日报",
+    "source_en": "WSJ",
+    "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+    "summary_en": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+    "date": "2026-11-09",
+    "id": 6,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "DeepSeek Won't Sink U.S. AI Titans",
+    "title_en": "DeepSeek Won't Sink U.S. AI Titans",
+    "url": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+    "source": "华尔街日报",
+    "source_en": "WSJ",
+    "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+    "summary_en": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+    "date": "2026-11-09",
+    "id": 7,
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "Financial Services Roundup: Market Talk",
+    "title_en": "Financial Services Roundup: Market Talk",
+    "url": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
+    "source": "华尔街日报",
+    "source_en": "WSJ",
+    "summary": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+    "summary_en": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+    "date": "2026-11-09",
+    "id": 8,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+    "title_en": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+    "url": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
+    "source": "市场观察",
+    "source_en": "MarketWatch",
+    "summary": "The large-cap index is nowhere near as diversified as you think.",
+    "summary_en": "The large-cap index is nowhere near as diversified as you think.",
+    "date": "2026-11-09",
+    "id": 9,
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "I’m second-guessing my adviser: Is an annuity the right move in this market?",
+    "title_en": "I’m second-guessing my adviser: Is an annuity the right move in this market?",
+    "url": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+    "source": "市场观察",
+    "source_en": "MarketWatch",
+    "summary": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”",
+    "summary_en": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”",
+    "date": "2026-11-09",
+    "id": 10,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+    "title_en": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+    "url": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+    "source": "市场观察",
+    "source_en": "MarketWatch",
+    "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
+    "summary_en": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
+    "date": "2026-11-09",
+    "id": 11,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
+    "title_en": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
+    "url": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
+    "source": "市场观察",
+    "source_en": "MarketWatch",
+    "summary": "“It’s not my funeral — it’s yours — so make it what you want,” one funeral-home operator says.",
+    "summary_en": "“It’s not my funeral — it’s yours — so make it what you want,” one funeral-home operator says.",
+    "date": "2026-11-09",
+    "id": 12,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Dow Jones Futures Rise As Nvidia Probes CEO Jensen Huang Spying Case",
+    "title_en": "Dow Jones Futures Rise As Nvidia Probes CEO Jensen Huang Spying Case",
+    "url": "https://finance.yahoo.com/m/283e1bd9-349e-390b-a32b-b4ed9a9034f3/dow-jones-futures-rise-as.html?.tsrc=rss",
+    "source": "雅虎财经",
+    "source_en": "YahooFinance",
+    "summary": "Futures rose after Nvidia's board said it's probing CEO Jensen Huang's foreign espionage case.",
+    "summary_en": "Futures rose after Nvidia's board said it's probing CEO Jensen Huang's foreign espionage case.",
+    "date": "2026-11-09",
+    "id": 13,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Apple Won’t “Play in Traffic” on AI. It’s Up 28% in a Year: Too Late to Buy?",
+    "title_en": "Apple Won’t “Play in Traffic” on AI. It’s Up 28% in a Year: Too Late to Buy?",
+    "url": "https://www.tikr.com/blog/apple-wont-play-in-traffic-on-ai-its-up-28-in-a-year-too-late-to-buy?ref=yahoofinance&tlnk=yf-261108-522mf3wh&.tsrc=rss",
+    "source": "雅虎财经",
+    "source_en": "YahooFinance",
+    "summary": "Key TakeawaysApple (AAPL) stock gained approximately 28% over the past year, closing near $342 on November 6 as stronger iPhone demand and earnings supported its rally. Microsoft (MSFT) reported approximately $41 billion in quarterly capital expenditures, including finance leases, while Alphabet (GO",
+    "summary_en": "Key TakeawaysApple (AAPL) stock gained approximately 28% over the past year, closing near $342 on November 6 as stronger iPhone demand and earnings supported its rally. Microsoft (MSFT) reported approximately $41 billion in quarterly capital expenditures, including finance leases, while Alphabet (GO",
+    "date": "2026-11-09",
+    "id": 14,
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "This Is the Best-Performing Magnificent Seven Stock of 2026. Is It Still a Buy?",
+    "title_en": "This Is the Best-Performing Magnificent Seven Stock of 2026. Is It Still a Buy?",
+    "url": "https://www.fool.com/investing/2026/11/08/this-is-best-performing-magnificent-seven-stock/?.tsrc=rss",
+    "source": "雅虎财经",
+    "source_en": "YahooFinance",
+    "summary": "Apple has crushed other members of the Magnificent Seven in 2026.",
+    "summary_en": "Apple has crushed other members of the Magnificent Seven in 2026.",
+    "date": "2026-11-09",
+    "id": 15,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Democrats prepare to go after Apple, Meta and Elon Musk companies",
+    "title_en": "Democrats prepare to go after Apple, Meta and Elon Musk companies",
+    "url": "https://www.thestreet.com/technology/democrats-prepare-to-go-after-apple-meta-and-elon-musk-companies?.tsrc=rss",
+    "source": "雅虎财经",
+    "source_en": "YahooFinance",
+    "summary": "The midterm results handed Congress new investigative powers, and some of the biggest names in tech are already on the list.",
+    "summary_en": "The midterm results handed Congress new investigative powers, and some of the biggest names in tech are already on the list.",
+    "date": "2026-11-09",
+    "id": 16,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "油运供需格局全面评估",
+    "title_en": null,
+    "url": "http://www.xueqiu.com/4531216350/416031208",
+    "source": "雪球",
+    "source_en": null,
+    "summary": "",
+    "summary_en": null,
+    "date": "2026-11-09",
+    "id": 17,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "适合自己的交易体系才是最正确的交易体系-再谈白酒和生猪",
+    "title_en": null,
+    "url": "http://www.xueqiu.com/3505189104/416016007",
+    "source": "雪球",
+    "source_en": null,
+    "summary": "",
+    "summary_en": null,
+    "date": "2026-11-09",
+    "id": 18,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "从AI政策规划来看，中国无疑是跑在最前面的。",
+    "title_en": null,
+    "url": "http://www.xueqiu.com/2426670165/416022304",
+    "source": "雪球",
+    "source_en": null,
+    "summary": "",
+    "summary_en": null,
+    "date": "2026-11-09",
+    "id": 19,
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "无视涨跌都有正向现金流的才叫资产",
+    "title_en": null,
+    "url": "http://www.xueqiu.com/7083498723/415975793",
+    "source": "雪球",
+    "source_en": null,
+    "summary": "",
+    "summary_en": null,
+    "date": "2026-11-09",
+    "id": 20,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "JDI 量产数码相机显示屏 WhiteMagic PRO：3.15 英寸，最高亮度 200cd/m²、支持 DCI-P3",
+    "title_en": null,
+    "url": "https://www.ithome.com/1/024/045.htm",
+    "source": "IT之家",
+    "source_en": null,
+    "summary": "IT之家 11 月 9 日消息，JDI（日本显示公司）现已量产数码相机用显示屏「WhiteMagic PRO」，面向日本国内以及海外厂商供应。据介绍，这款显示屏采用 RGBW 像素结构，结合独家信号处理技术和高效率背光。在维持低功耗的前提下，这款显示屏最高亮度可达 200cd/m²，支持 DCI-P3 广色域。IT之家注意到，这款显示屏的尺寸是 3.15 英寸，分辨率为 1024*682（390ppi），对比度 1500:1。JDI 表示，这款显示屏未来除了数码相机领域，还将扩展至更多应用场景。",
+    "summary_en": null,
+    "date": "2026-11-09",
+    "id": 21,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "日本车灯巨头小糸制作所拆解比亚迪、问界等中国汽车，直言“不明白怎么做到这种价格”",
+    "title_en": null,
+    "url": "https://www.ithome.com/1/024/044.htm",
+    "source": "IT之家",
+    "source_en": null,
+    "summary": "IT之家 11 月 9 日消息，据日经亚洲今日报道，日本车灯巨头 —— 日本小糸制作所正在拆解研究中国汽车的车灯，工程师直言“我不明白他们怎么能做到这种价格，如果无法降低生产成本，我们就要输了”。日本小糸制作所的目标是到 2,030 财年将生产成本削减约 30%。报道提到，小糸位于日本中部静冈县的旗舰工厂里有一间“竞品分析室”，该公司每年在这里拆解约 100 款产品，分析其结构、材料以及灯珠数量。加上另一处独立仓库，该公司总共收藏了约 600 款汽车大灯，其中就包括来自中国的产品，比如比亚迪、问界。小糸制作所执行副总裁 Masami Uchiyama 表示：“中国的价格如今已成为行业标杆。”根",
+    "summary_en": null,
+    "date": "2026-11-09",
+    "id": 22,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "随时结束：B站 x 京东 PLUS 联名年卡 134 元、大会员年卡 89 元再降新低",
+    "title_en": null,
+    "url": "https://www.ithome.com/1/024/043.htm",
+    "source": "IT之家",
+    "source_en": null,
+    "summary": "B站大会员年卡 + 京东 PLUS 年卡日常售价 258 元，现 11.11 大促价为 148 元，点击详情页【淘金币抵扣】卡片，淘金币可抵 13.25 元，实付为 134.75 元，到手双会员各一年：天猫哔哩哔哩大会员 12 个月年卡 + 京东 PLUS 会员年卡券后 134.75 元领 85 元券* 淘金币抵扣随时结束，具体以下单价格为准。B站大会员双年卡原价 313 元，11.11 大促期间，直降至 198 元：先领 10 元券再点击下方淘金币大额抵扣横幅，淘金币抵扣 8.13 元；实付 179.87 元到手 2 年，折合年卡约 89.9 元：天猫哔哩哔哩大会员双年卡券后 179.87 ",
+    "summary_en": null,
+    "date": "2026-11-09",
+    "id": 23,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "比亚迪李柯回应仰望为何要做全华班：让我狂一次吧，因为在全世界找不到第二家公司有这么深厚技术",
+    "title_en": null,
+    "url": "https://www.ithome.com/1/024/042.htm",
+    "source": "IT之家",
+    "source_en": null,
+    "summary": "IT之家 11 月 9 日消息，今年 11 月 6 日，比亚迪仰望 U9X 阿布扎比公共道路极速挑战，以 503.17km/h 的成绩再创全球极速新纪录。比亚迪执行副总裁李柯在阿联酋阿布扎比接受博主 @向北不断电 采访时被问及仰望为何要做全华班？她回应称：就让我狂一次吧，因为我们已经是极速了，我们只能从自己身上去学呀。因为我们在全世界找不到第二家公司有这么深厚的技术。所以让我今天狂妄一次哈，我们只能跟自己学，只能突破自己，才能创造历史。据IT之家此前报道，比亚迪仰望 U9X 最新极速成绩于 11 月 1 日在阿联酋阿布扎比 E11 高速公路的封闭测试路段取得，并由车手马克 · 巴森（Marc ",
+    "summary_en": null,
+    "date": "2026-11-09",
+    "id": 24,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "派早报：特斯拉将停产 Cybertruck",
+    "title_en": null,
+    "url": "https://sspai.com/post/118805",
+    "source": "少数派",
+    "source_en": null,
+    "summary": "特斯拉将停产 Cybertruck深圳在 APEC 前夕整顿非法市场美国数据中心股持续遭抛售，大量建设项目被取消京津冀三地消协组织敦促航司、平台规范机票退改签FBI 警告冰柜网络安全攻击风险广电总局部署开展新一轮微短剧专项治理工作看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+    "summary_en": null,
+    "date": "2026-11-09",
+    "id": 25,
+    "importance": "low",
+    "analysis": "市场情绪受多重因素影响，建议投资者保持理性，关注基本面和长期趋势。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "苹果产品那些不够颠覆，却值得被学习的细节",
+    "title_en": null,
+    "url": "https://sspai.com/post/118114",
+    "source": "少数派",
+    "source_en": null,
+    "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+    "summary_en": null,
+    "date": "2026-11-09",
+    "id": 26,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "一个 05 后的个人数码编年史",
+    "title_en": null,
+    "url": "https://sspai.com/post/116750",
+    "source": "少数派",
+    "source_en": null,
+    "summary": "我只想回应自己的感受，自己的记忆，只是因为那时候我满腔少年心气，对一切都充满好奇，对未来充满憧憬。查看全文",
+    "summary_en": null,
+    "date": "2026-11-09",
+    "id": 27,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "本周看什么 | 最近值得一看的 9 部作品",
+    "title_en": null,
+    "url": "https://sspai.com/post/118623",
+    "source": "少数派",
+    "source_en": null,
+    "summary": "📅本周新预告《戴高乐之战》确认引进11月2日，电影《戴高乐之战》确认引进。该系列分为《戴高乐之战：淬炼时代》《戴高乐之战：我写下你的名字》上下两部曲。由法国百代公司出品，制作成本高达7520万欧元。作 ...查看全文",
+    "summary_en": null,
+    "date": "2026-11-09",
+    "id": 28,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "汇率"
+    ]
+  }
+]
