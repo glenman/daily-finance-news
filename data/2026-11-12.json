@@ -1,0 +1,450 @@
+[
+  {
+    "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
+    "title_en": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
+    "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
+    "source": "美国消费者新闻与商业频道",
+    "source_en": "CNBC",
+    "summary": "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials.",
+    "summary_en": "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials.",
+    "date": "2026-11-12",
+    "id": 1,
+    "importance": "high",
+    "analysis": "货币政策变动对全球金融市场有重要影响，投资者应密切关注后续政策走向和相关经济数据。",
+    "tags": [
+      "美联储"
+    ]
+  },
+  {
+    "title": "从CoreWeave财报谈谈新云债务与算力博弈",
+    "title_en": null,
+    "url": "http://www.xueqiu.com/5332385101/416357406",
+    "source": "雪球",
+    "source_en": null,
+    "summary": "",
+    "summary_en": null,
+    "date": "2026-11-12",
+    "id": 2,
+    "importance": "medium",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "航运巨头马士基遭数据泄露，勒索团伙索要 500 万美元赎金",
+    "title_en": null,
+    "url": "https://www.ithome.com/1/025/893.htm",
+    "source": "IT之家",
+    "source_en": null,
+    "summary": "IT之家 11 月 12 日消息，丹麦航运巨头马士基近期遭遇数据泄露，黑客入侵了该公司此前收购的一家子公司。马士基表示，公司网络安全团队发现问题后立刻展开调查，目前没有迹象表明其他马士基系统，或通过 API、EDI 等集成方式与马士基连接的客户及合作伙伴系统受到影响。同时马士基表示，本次事件不会对客户业务造成影响，他们仍可照常使用马士基平台管理货运业务。结合 BleepingComputer 报道，勒索软件团伙 WhiteArmor 声称对此次攻击负责。该团伙上周末在自己的数据泄露网站公布了马士基的名称，并索要 500 万美元（IT之家注：现汇率约合 3,342.9 万元人民币）赎金。Whit",
+    "summary_en": null,
+    "date": "2026-11-12",
+    "id": 3,
+    "importance": "medium",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "汇率"
+    ]
+  },
+  {
+    "title": "Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire",
+    "title_en": "Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire",
+    "url": "https://www.cnbc.com/2026/11/11/kalsi-polymarket-prediction-market-senators-hhs-drug-approval.html",
+    "source": "美国消费者新闻与商业频道",
+    "source_en": "CNBC",
+    "summary": "Sens. Angela Alsobrooks and Ron Wyden are asking what steps the Department of Health and Human Services has taken to mitigate risks from the markets.",
+    "summary_en": "Sens. Angela Alsobrooks and Ron Wyden are asking what steps the Department of Health and Human Services has taken to mitigate risks from the markets.",
+    "date": "2026-11-12",
+    "id": 4,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+    "title_en": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+    "url": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+    "source": "美国消费者新闻与商业频道",
+    "source_en": "CNBC",
+    "summary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
+    "summary_en": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
+    "date": "2026-11-12",
+    "id": 5,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "U.S. gas prices fall below $4 for the first time since July",
+    "title_en": "U.S. gas prices fall below $4 for the first time since July",
+    "url": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
+    "source": "美国消费者新闻与商业频道",
+    "source_en": "CNBC",
+    "summary": "Americans may finally find some relief at the pump.",
+    "summary_en": "Americans may finally find some relief at the pump.",
+    "date": "2026-11-12",
+    "id": 6,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+    "title_en": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+    "url": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+    "source": "华尔街日报",
+    "source_en": "WSJ",
+    "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+    "summary_en": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+    "date": "2026-11-12",
+    "id": 7,
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "Comex Gold, Silver Settle Lower",
+    "title_en": "Comex Gold, Silver Settle Lower",
+    "url": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
+    "source": "华尔街日报",
+    "source_en": "WSJ",
+    "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+    "summary_en": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+    "date": "2026-11-12",
+    "id": 8,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "DeepSeek Won't Sink U.S. AI Titans",
+    "title_en": "DeepSeek Won't Sink U.S. AI Titans",
+    "url": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+    "source": "华尔街日报",
+    "source_en": "WSJ",
+    "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+    "summary_en": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+    "date": "2026-11-12",
+    "id": 9,
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "Financial Services Roundup: Market Talk",
+    "title_en": "Financial Services Roundup: Market Talk",
+    "url": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
+    "source": "华尔街日报",
+    "source_en": "WSJ",
+    "summary": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+    "summary_en": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+    "date": "2026-11-12",
+    "id": 10,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
+    "title_en": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
+    "url": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
+    "source": "市场观察",
+    "source_en": "MarketWatch",
+    "summary": "“I have a net worth of $2.3 million and my only debt is a 15-year mortgage.”",
+    "summary_en": "“I have a net worth of $2.3 million and my only debt is a 15-year mortgage.”",
+    "date": "2026-11-12",
+    "id": 11,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
+    "title_en": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
+    "url": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
+    "source": "市场观察",
+    "source_en": "MarketWatch",
+    "summary": "Nvidia’s board of directors reportedly could meet as soon as today to determine the CEO’s fate.",
+    "summary_en": "Nvidia’s board of directors reportedly could meet as soon as today to determine the CEO’s fate.",
+    "date": "2026-11-12",
+    "id": 12,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
+    "title_en": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
+    "url": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
+    "source": "市场观察",
+    "source_en": "MarketWatch",
+    "summary": "Stock futures were sliding Wednesday evening as a selloff in shares of Nvidia after the closing bell weighed on the Nasdaq-100 and dragged down shares of other chip makers.",
+    "summary_en": "Stock futures were sliding Wednesday evening as a selloff in shares of Nvidia after the closing bell weighed on the Nasdaq-100 and dragged down shares of other chip makers.",
+    "date": "2026-11-12",
+    "id": 13,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Your holiday credit-card bills are going up. What you can do to ease the pain.",
+    "title_en": "Your holiday credit-card bills are going up. What you can do to ease the pain.",
+    "url": "https://www.marketwatch.com/story/your-holiday-credit-card-bills-are-going-up-what-you-can-do-to-ease-the-pain-5ddeb446?mod=mw_rss_topstories",
+    "source": "市场观察",
+    "source_en": "MarketWatch",
+    "summary": "The government may have lost a month of inflation data, but don’t expect your credit card’s annual percentage rate to decline because of it.",
+    "summary_en": "The government may have lost a month of inflation data, but don’t expect your credit card’s annual percentage rate to decline because of it.",
+    "date": "2026-11-12",
+    "id": 14,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Stock Market Today, Nov. 11: Stock Market Today, Nov. 11: Nasdaq Surges as CoreWeave's 25% Rally Reignites the AI Trade",
+    "title_en": "Stock Market Today, Nov. 11: Stock Market Today, Nov. 11: Nasdaq Surges as CoreWeave's 25% Rally Reignites the AI Trade",
+    "url": "https://www.fool.com/coverage/stock-market-today/2026/11/11/stock-market-today-nov-11-stock-market-today-nov-11-nasdaq-surges-as-coreweave-s-25-rally-reignites-the-ai-trade/?.tsrc=rss",
+    "source": "雅虎财经",
+    "source_en": "YahooFinance",
+    "summary": "Wall Street staged a strong recovery Wednesday as enthusiasm for AI infrastructure returned, lifting semiconductor and technology stocks despite persistent concerns about inflation.",
+    "summary_en": "Wall Street staged a strong recovery Wednesday as enthusiasm for AI infrastructure returned, lifting semiconductor and technology stocks despite persistent concerns about inflation.",
+    "date": "2026-11-12",
+    "id": 15,
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "Apple Shares (AAPL) Look Expensive Heading into 2027",
+    "title_en": "Apple Shares (AAPL) Look Expensive Heading into 2027",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/apple-shares-aapl-look-expensive-211500629.html?.tsrc=rss",
+    "source": "雅虎财经",
+    "source_en": "YahooFinance",
+    "summary": "Apple (AAPL) shares look expensive heading into 2027, despite the company’s strong growth prospects. Shares of the iPhone maker have soared in 2026, easily outperforming the Nasdaq-100 (NDX) as tracked by the Invesco QQQ Trust (QQQ). This comes as Apple has delivered higher sales and revenues this y",
+    "summary_en": "Apple (AAPL) shares look expensive heading into 2027, despite the company’s strong growth prospects. Shares of the iPhone maker have soared in 2026, easily outperforming the Nasdaq-100 (NDX) as tracked by the Invesco QQQ Trust (QQQ). This comes as Apple has delivered higher sales and revenues this y",
+    "date": "2026-11-12",
+    "id": 16,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Cramer Says Apple Investors Who Sold After Steve Jobs Missed Years Of Gains. The Stock Is Up Nearly 3,000% Since. Now He’s Asking If Nvidia Needs Jensen Huang",
+    "title_en": "Cramer Says Apple Investors Who Sold After Steve Jobs Missed Years Of Gains. The Stock Is Up Nearly 3,000% Since. Now He’s Asking If Nvidia Needs Jensen Huang",
+    "url": "https://247wallst.com/investing/2026/11/11/cramer-says-apple-investors-who-sold-after-steve-jobs-missed-years-of-gains-the-stock-is-up-nearly-3000-since-now-hes-asking-if-nvidia-needs-jensen-huang/?.tsrc=rss",
+    "source": "雅虎财经",
+    "source_en": "YahooFinance",
+    "summary": "Jim Cramer is bending his own \"own it, don't trade it\" rule for Nvidia as its founder faces a board probe. Apple's post-Jobs history offers a tempting parallel, but one key difference could make it a dangerous guide.",
+    "summary_en": "Jim Cramer is bending his own \"own it, don't trade it\" rule for Nvidia as its founder faces a board probe. Apple's post-Jobs history offers a tempting parallel, but one key difference could make it a dangerous guide.",
+    "date": "2026-11-12",
+    "id": 17,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "MP Materials Clears GM Magnet Milestone, Targets Apple as Next Customer",
+    "title_en": "MP Materials Clears GM Magnet Milestone, Targets Apple as Next Customer",
+    "url": "https://www.marketbeat.com/instant-alerts/event-mp-materials-clears-gm-magnet-milestone-targets-apple-as-next-customer-2026-11-11/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+    "source": "雅虎财经",
+    "source_en": "YahooFinance",
+    "summary": "MP Materials (NYSE:MP) has qualified rare earth magnets for General Motors and is ramping production, CEO and Chairman Jim Litinsky said at an investor conference, marking a milestone in the company’s expansion beyond mining and refining. Litinsky said the company plans to bring Apple online as a c",
+    "summary_en": "MP Materials (NYSE:MP) has qualified rare earth magnets for General Motors and is ramping production, CEO and Chairman Jim Litinsky said at an investor conference, marking a milestone in the company’s expansion beyond mining and refining. Litinsky said the company plans to bring Apple online as a c",
+    "date": "2026-11-12",
+    "id": 18,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "A股上市企业都是周期股？不值得投资？",
+    "title_en": null,
+    "url": "http://www.xueqiu.com/1843761023/416349240",
+    "source": "雪球",
+    "source_en": null,
+    "summary": "",
+    "summary_en": null,
+    "date": "2026-11-12",
+    "id": 19,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "股市"
+    ]
+  },
+  {
+    "title": "从左侧到右侧：光模块反转还差这八块拼图",
+    "title_en": null,
+    "url": "http://www.xueqiu.com/3196557688/416370980",
+    "source": "雪球",
+    "source_en": null,
+    "summary": "",
+    "summary_en": null,
+    "date": "2026-11-12",
+    "id": 20,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "泡沫不在估值里，而在时间线上",
+    "title_en": null,
+    "url": "http://www.xueqiu.com/7271353740/416401769",
+    "source": "雪球",
+    "source_en": null,
+    "summary": "",
+    "summary_en": null,
+    "date": "2026-11-12",
+    "id": 21,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "华硕推出 Pro WS LC 360-4710 液冷：支持英特尔工作站平台",
+    "title_en": null,
+    "url": "https://www.ithome.com/1/025/897.htm",
+    "source": "IT之家",
+    "source_en": null,
+    "summary": "IT之家 11 月 12 日消息，华硕 (ASUS) 现已在其官网上线一体式液冷散热器 Pro WS LC 360-4710。这一型号面向英特尔的 LGA 4667 / 4710 至强工作站处理器平台，能提供可靠高效的冷却能力。Pro WS LC 360-4710 基于 Asetek 方案，水泵采用 3450RPM 电机，搭配 465mm 套筒橡胶管、38mm 加厚铝制冷排；吹排风扇为 12028 规格，可提供 99.66CFM 风量、6.34mmAq 静压，噪声 39.1dB(A)。这款 AIO 冷头内嵌 ARGB 灯珠，支持实时显示系统关键硬件温度。华硕为该液冷提供 6 年质保。",
+    "summary_en": null,
+    "date": "2026-11-12",
+    "id": 22,
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "百度李彦宏对话联想杨元庆：AI 还替代不了 CEO 出差",
+    "title_en": null,
+    "url": "https://www.ithome.com/1/025/895.htm",
+    "source": "IT之家",
+    "source_en": null,
+    "summary": "IT之家 11 月 12 日现场消息，在今日的百度世界大会 2026 活动中，百度创始人李彦宏发表演讲，并在现场对话联想集团董事长兼 CEO 杨元庆。李彦宏询问杨元庆最近出差多吗，并表示“现在 AI 还是替代不了 CEO 出差”。杨元庆回答：（最近出差）挺多的，最近从欧美回来。人和人之间的情感链接还是非常重要的。所以这次出差也是见了不少的客户，和分析师开了不少的圆桌会。杨元庆提到，从 2024 年开始是联想的第五个十年，也是联想第五次创业，毫无疑问就是围绕着 AI 时代的创业。IT之家在大会现场了解到，杨元庆透露联想正在用 AI 变革所有的业务，三大主要业务都会因 AI 获得新生，包括智能终端",
+    "summary_en": null,
+    "date": "2026-11-12",
+    "id": 23,
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "Claude API 新增调节 effort 能力：让 AI 按任务使劲，从闲聊转复杂分析可中途“换挡”",
+    "title_en": null,
+    "url": "https://www.ithome.com/1/025/894.htm",
+    "source": "IT之家",
+    "source_en": null,
+    "summary": "IT之家 11 月 12 日消息，Anthropic 为 Claude API 新增一项 Beta 功能，开发者可以在消息中调整 effort。这意味着，同一段对话不必始终沿用相同设置，开发者可根据后续任务需要，中途改变模型回答的“努力程度”。IT之家注：effort 可以理解为让 Claude 回答问题时，“投入多少功夫”的档位。它帮助开发者在回答的充分程度、响应速度和使用成本之间做取舍。effort 调整的不只是最后写多少字，还会影响模型在思考、调用工具和组织回答等环节的资源投入。在操作方面，用户可以在消息序列中插入一条内容为空的 system 消息，并通过新的 output_config",
+    "summary_en": null,
+    "date": "2026-11-12",
+    "id": 24,
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等",
+    "title_en": null,
+    "url": "https://sspai.com/post/118935",
+    "source": "少数派",
+    "source_en": null,
+    "summary": "Arm 发布 Cortex-M42 处理器、任天堂宣布「轻松登入」功能将下线等。查看全文",
+    "summary_en": null,
+    "date": "2026-11-12",
+    "id": 25,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "城市漫步指南 | 安特卫普，时尚就在生活中",
+    "title_en": null,
+    "url": "https://sspai.com/post/118781",
+    "source": "少数派",
+    "source_en": null,
+    "summary": "原本今年夏天的旅行是要在佛罗伦萨结束的，但突发状况导致我不用上班了，就顺势使用了我的国际机票退改券，增加了一段安特卫普的行程。打卡安特卫普的理由跟意大利一样奇怪——因为这个地方举办过好几届体操世锦赛（ ...查看全文",
+    "summary_en": null,
+    "date": "2026-11-12",
+    "id": 26,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "从优胜美地到金门大桥：跟着 macOS 游览加州",
+    "title_en": null,
+    "url": "https://sspai.com/post/118175",
+    "source": "少数派",
+    "source_en": null,
+    "summary": "陪伴 Mac 用户十余年的加州风景，走出屏幕后究竟是什么模样？查看全文",
+    "summary_en": null,
+    "date": "2026-11-12",
+    "id": 27,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "RetroSweeper Go：复古外观、更有手感的扫雷游戏",
+    "title_en": null,
+    "url": "https://sspai.com/post/118458",
+    "source": "少数派",
+    "source_en": null,
+    "summary": "复古游戏机风格的界面和「手柄」设计，希望可以唤起你的一些回忆。查看全文",
+    "summary_en": null,
+    "date": "2026-11-12",
+    "id": 28,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  }
+]
