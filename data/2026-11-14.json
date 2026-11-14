@@ -1,0 +1,450 @@
+[
+  {
+    "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
+    "title_en": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
+    "url": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
+    "source": "美国消费者新闻与商业频道",
+    "source_en": "CNBC",
+    "summary": "The policymaker expressed concern about the latest inflation data, telling CNBC that the central bank likely will need to take action.",
+    "summary_en": "The policymaker expressed concern about the latest inflation data, telling CNBC that the central bank likely will need to take action.",
+    "date": "2026-11-14",
+    "id": 1,
+    "importance": "high",
+    "analysis": "货币政策变动对全球金融市场有重要影响，投资者应密切关注后续政策走向和相关经济数据。",
+    "tags": [
+      "美联储"
+    ]
+  },
+  {
+    "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+    "title_en": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+    "url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
+    "source": "美国消费者新闻与商业频道",
+    "source_en": "CNBC",
+    "summary": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
+    "summary_en": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
+    "date": "2026-11-14",
+    "id": 2,
+    "importance": "high",
+    "analysis": "货币政策变动对全球金融市场有重要影响，投资者应密切关注后续政策走向和相关经济数据。",
+    "tags": [
+      "美联储"
+    ]
+  },
+  {
+    "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
+    "title_en": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
+    "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+    "source": "美国消费者新闻与商业频道",
+    "source_en": "CNBC",
+    "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
+    "summary_en": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
+    "date": "2026-11-14",
+    "id": 3,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
+    "title_en": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
+    "url": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
+    "source": "美国消费者新闻与商业频道",
+    "source_en": "CNBC",
+    "summary": "The political climate heading into next week's Trump-Xi summit is drastically different from the last meeting in September.",
+    "summary_en": "The political climate heading into next week's Trump-Xi summit is drastically different from the last meeting in September.",
+    "date": "2026-11-14",
+    "id": 4,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+    "title_en": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+    "url": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+    "source": "华尔街日报",
+    "source_en": "WSJ",
+    "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+    "summary_en": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+    "date": "2026-11-14",
+    "id": 5,
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "Comex Gold, Silver Settle Lower",
+    "title_en": "Comex Gold, Silver Settle Lower",
+    "url": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
+    "source": "华尔街日报",
+    "source_en": "WSJ",
+    "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+    "summary_en": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+    "date": "2026-11-14",
+    "id": 6,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "DeepSeek Won't Sink U.S. AI Titans",
+    "title_en": "DeepSeek Won't Sink U.S. AI Titans",
+    "url": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+    "source": "华尔街日报",
+    "source_en": "WSJ",
+    "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+    "summary_en": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+    "date": "2026-11-14",
+    "id": 7,
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "Financial Services Roundup: Market Talk",
+    "title_en": "Financial Services Roundup: Market Talk",
+    "url": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
+    "source": "华尔街日报",
+    "source_en": "WSJ",
+    "summary": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+    "summary_en": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+    "date": "2026-11-14",
+    "id": 8,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed or canceled",
+    "title_en": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed or canceled",
+    "url": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+    "source": "市场观察",
+    "source_en": "MarketWatch",
+    "summary": "Agency cites “extraordinary circumstances,” while  Homeland Security Secretary Mullin says no indication of attack. Reduced flights amid fuel-cost surge may curtail rebooking options.",
+    "summary_en": "Agency cites “extraordinary circumstances,” while  Homeland Security Secretary Mullin says no indication of attack. Reduced flights amid fuel-cost surge may curtail rebooking options.",
+    "date": "2026-11-14",
+    "id": 9,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+    "title_en": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+    "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+    "source": "市场观察",
+    "source_en": "MarketWatch",
+    "summary": "There is already a demographic ‘run’ on Social Security.",
+    "summary_en": "There is already a demographic ‘run’ on Social Security.",
+    "date": "2026-11-14",
+    "id": 10,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "4 expert tips for signing up for Medicare",
+    "title_en": "4 expert tips for signing up for Medicare",
+    "url": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
+    "source": "市场观察",
+    "source_en": "MarketWatch",
+    "summary": "A day in the life of a Medicare counselor",
+    "summary_en": "A day in the life of a Medicare counselor",
+    "date": "2026-11-14",
+    "id": 11,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
+    "title_en": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
+    "url": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
+    "source": "市场观察",
+    "source_en": "MarketWatch",
+    "summary": "Nvidia wiped out $573 billion in market capitalization this week — its sixth consecutive week of stock declines.",
+    "summary_en": "Nvidia wiped out $573 billion in market capitalization this week — its sixth consecutive week of stock declines.",
+    "date": "2026-11-14",
+    "id": 12,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "Is Apple Stock a Buy Right Now?",
+    "title_en": "Is Apple Stock a Buy Right Now?",
+    "url": "https://www.fool.com/investing/2026/11/13/is-apple-stock-a-buy-right-now/?.tsrc=rss",
+    "source": "雅虎财经",
+    "source_en": "YahooFinance",
+    "summary": "Apple is hitting new highs, but it could go even higher.",
+    "summary_en": "Apple is hitting new highs, but it could go even higher.",
+    "date": "2026-11-14",
+    "id": 13,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "A $1,999 Sellout. What China Renaissance Sees in Apple (AAPL)",
+    "title_en": "A $1,999 Sellout. What China Renaissance Sees in Apple (AAPL)",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/1-999-sellout-china-renaissance-211310813.html?.tsrc=rss",
+    "source": "雅虎财经",
+    "source_en": "YahooFinance",
+    "summary": "We just published a list of the Buy Alert: 10 Stocks Analysts Upgraded on Wednesday and Apple (NASDAQ:AAPL) ranked 10th on this list. October consumer prices rose 0.4%, the third straight monthly gain of at least 0.4%, according to data reported by Reuters. Economists polled by the outlet had expect",
+    "summary_en": "We just published a list of the Buy Alert: 10 Stocks Analysts Upgraded on Wednesday and Apple (NASDAQ:AAPL) ranked 10th on this list. October consumer prices rose 0.4%, the third straight monthly gain of at least 0.4%, according to data reported by Reuters. Economists polled by the outlet had expect",
+    "date": "2026-11-14",
+    "id": 14,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "JardogsHealth Forms Strategic Advisory Council with Leaders from Discover Card, MTV, DoorDash and Apple",
+    "title_en": "JardogsHealth Forms Strategic Advisory Council with Leaders from Discover Card, MTV, DoorDash and Apple",
+    "url": "https://finance.yahoo.com/healthcare/articles/jardogshealth-forms-strategic-advisory-council-192900019.html?.tsrc=rss",
+    "source": "雅虎财经",
+    "source_en": "YahooFinance",
+    "summary": "JardogsHealth, the AI operating layer for healthcare, today announced the formation of the JardogsHealth Strategic Advisory Council, four executives who reached the top of financial services, media, startups and technology. The council will advise JardogsHealth leadership on long-term strategy, grow",
+    "summary_en": "JardogsHealth, the AI operating layer for healthcare, today announced the formation of the JardogsHealth Strategic Advisory Council, four executives who reached the top of financial services, media, startups and technology. The council will advise JardogsHealth leadership on long-term strategy, grow",
+    "date": "2026-11-14",
+    "id": 15,
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "Apple Stocks Rise 1.04% as Siri AI-Powered HomeView and Apple TV Hit Shelves",
+    "title_en": "Apple Stocks Rise 1.04% as Siri AI-Powered HomeView and Apple TV Hit Shelves",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stocks-rise-1-04-173942861.html?.tsrc=rss",
+    "source": "雅虎财经",
+    "source_en": "YahooFinance",
+    "summary": "Two $299 devices built around Siri AI go on sale Friday, though HomeView skips the EU because Siri AI is unavailable there.",
+    "summary_en": "Two $299 devices built around Siri AI go on sale Friday, though HomeView skips the EU because Siri AI is unavailable there.",
+    "date": "2026-11-14",
+    "id": 16,
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "长线周期股如何买和卖",
+    "title_en": null,
+    "url": "http://www.xueqiu.com/9928479458/416457424",
+    "source": "雪球",
+    "source_en": null,
+    "summary": "",
+    "summary_en": null,
+    "date": "2026-11-14",
+    "id": 17,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "中国海运原油进口货盘分析",
+    "title_en": null,
+    "url": "http://www.xueqiu.com/1910783512/416681098",
+    "source": "雪球",
+    "source_en": null,
+    "summary": "",
+    "summary_en": null,
+    "date": "2026-11-14",
+    "id": 18,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "油价"
+    ]
+  },
+  {
+    "title": "一些积极的信息",
+    "title_en": null,
+    "url": "http://www.xueqiu.com/1978633463/416713945",
+    "source": "雪球",
+    "source_en": null,
+    "summary": "",
+    "summary_en": null,
+    "date": "2026-11-14",
+    "id": 19,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "9月以来波斯湾和红海出货情况",
+    "title_en": null,
+    "url": "http://www.xueqiu.com/7630243390/416768555",
+    "source": "雪球",
+    "source_en": null,
+    "summary": "",
+    "summary_en": null,
+    "date": "2026-11-14",
+    "id": 20,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "苹果首款智能家居中枢 HomeView 开售：戴墨镜可能认不出你",
+    "title_en": null,
+    "url": "https://www.ithome.com/1/027/043.htm",
+    "source": "IT之家",
+    "source_en": null,
+    "summary": "IT之家 11 月 14 日消息，苹果首款智能家居中枢 HomeView 昨日（11 月 13 日）在美国等市场发售后，官方随后更新了多份支持文档，详细披露了该产品的诸多日常使用细节，涵盖照镜子、睡眠定时、访客权限及个人信息保护等功能。1、识别功能苹果表示，如果你戴着遮盖的脸，包括戴着墨镜，HomeView 很可能无法识别你。如果 HomeView 无法识别你，苹果建议移除所有阻碍摄像头看到你脸部的内容。HomeView 的屏幕需要朝向你的脸部，如果周围有其他人，你必须处于画面中心并靠近摄像头，而且 HomeView 不能被悬垂的架子和橱柜挡住。苹果表示 HomeView 需要正面且均匀的光线",
+    "summary_en": null,
+    "date": "2026-11-14",
+    "id": 21,
+    "importance": "low",
+    "analysis": "市场情绪受多重因素影响，建议投资者保持理性，关注基本面和长期趋势。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "FAA 宣布解除全美航班地面停飞令，超 1.4 万架次航班延误或取消",
+    "title_en": null,
+    "url": "https://www.ithome.com/1/027/040.htm",
+    "source": "IT之家",
+    "source_en": null,
+    "summary": "IT之家 11 月 14 日消息，美国联邦航空管理局（FAA）已解除此前实施的全美范围航班地面停飞令。根据 FAA 航空交通管制系统指挥中心发布的最新通告，当地时间 11 月 14 日凌晨 1 时 19 分（UTC），全美范围地面停飞令正式取消，涉及所有目的地机场及相关设施。此次停飞始于当地时间 11 月 13 日下午。美国交通部长肖恩・达菲表示，FAA 全国 22 个区域航空交通管制中心受到通信故障影响，技术人员正在调查。出于安全考虑，FAA 暂停了全美机场的航班起飞，已经在空中的飞机则可以继续飞行并安全降落。据美国媒体 The Verge 援引航班追踪平台 FlightAware 的数据，",
+    "summary_en": null,
+    "date": "2026-11-14",
+    "id": 22,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "1 至 10 月全国铁路发送旅客 41.3 亿人次创历史同期新高，同比增长 4.7%",
+    "title_en": null,
+    "url": "https://www.ithome.com/1/027/039.htm",
+    "source": "IT之家",
+    "source_en": null,
+    "summary": "IT之家 11 月 14 日消息，国铁集团今日公布数据，1 至 10 月全国铁路累计发送旅客 41.3 亿人次，同比增长 4.7%，创历史同期新高。今年 1 至 10 月，全国铁路日均安排开行旅客列车 11670 列，同比增长 5.0%，其中 10 月 1 日发送旅客 2520.4 万人次、开行旅客列车 14885 列，单日旅客发送量、单日客运能力投放均创历史新高。1 至 10 月全国铁路累计开行旅游列车 3236 列，开行“歌迷专列”“球迷专列”“研学专列”等 1084 列。加强跨境客运组织，广深港高铁、中老铁路分别发送跨境旅客 2923 万、28.9 万人次，同比分别增长 11.0%、33",
+    "summary_en": null,
+    "date": "2026-11-14",
+    "id": 23,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "DeepSeek 前端代码出现“额度耗尽”提示，开发者猜测将首次推出 C 端付费方案",
+    "title_en": null,
+    "url": "https://www.ithome.com/1/027/038.htm",
+    "source": "IT之家",
+    "source_en": null,
+    "summary": "IT之家 11 月 14 日消息，有开发者在 chat.deepseek.com 的前端代码中发现了一整套额度管理逻辑，提示文案包括“使用额度已达上限，请额度恢复后再试”。此外，其代码还包含额度耗尽后的错误处理分支，以及“分享对话后继续聊”场景下对 quotas 数组中 is_exhausted 状态的检查。根据开发者们挖出的信息，最新前端 commit 已经支持「额度状态轮询」：页面可见时每 5 分钟同步各模型额度、禁言状态与服务端文案。当额度耗尽时，DeepSeek 输入框上方会直接出提示条，首页欢迎区也改为服务端下发的额度说明。这套前端体系涵盖剩余额度实时同步、额度耗尽即时提醒、额度恢复",
+    "summary_en": null,
+    "date": "2026-11-14",
+    "id": 24,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "本周看什么 | 最近值得一看的 10 部作品",
+    "title_en": null,
+    "url": "https://sspai.com/post/118999",
+    "source": "少数派",
+    "source_en": null,
+    "summary": "📅本周新预告《银翼杀手2099》终极预告11月10日，剧集《银翼杀手2099》发布了终极预告，将于11月25日上线PrimeVideo。亨特·莎弗、杨紫琼主演，2099年的洛杉矶，为了彻底结束逃亡生活 ...查看全文",
+    "summary_en": null,
+    "date": "2026-11-14",
+    "id": 25,
+    "importance": "low",
+    "analysis": "该新闻值得关注，建议持续跟踪相关动态以评估对投资组合的潜在影响。",
+    "tags": [
+      "财经"
+    ]
+  },
+  {
+    "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
+    "title_en": null,
+    "url": "https://sspai.com/post/118153",
+    "source": "少数派",
+    "source_en": null,
+    "summary": "AI 改变的不是科研写作本身，而是我们完成科研写作时的工作方式。查看全文",
+    "summary_en": null,
+    "date": "2026-11-14",
+    "id": 26,
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
+    "title_en": null,
+    "url": "https://sspai.com/post/118512",
+    "source": "少数派",
+    "source_en": null,
+    "summary": "距离写完上一篇在少数派发的《从开源清理工具到付费Mac应用，用户教会了我如何做产品》已经过去两个多月。这段时间里，Mole从1.13一路发到了1.19，加上了AI工具清理和系统数据清理，Windows ...查看全文",
+    "summary_en": null,
+    "date": "2026-11-14",
+    "id": 27,
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  },
+  {
+    "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等",
+    "title_en": null,
+    "url": "https://sspai.com/post/118966",
+    "source": "少数派",
+    "source_en": null,
+    "summary": "2026 年金摇杆奖获奖名单公布，Apex Compute 推出跨平台 AI 帧生成技术 ANR 等。查看全文",
+    "summary_en": null,
+    "date": "2026-11-14",
+    "id": 28,
+    "importance": "low",
+    "analysis": "科技发展推动产业升级，相关领域投资机会值得关注，但需评估估值风险。",
+    "tags": [
+      "科技"
+    ]
+  }
+]
